@@ -1,0 +1,50 @@
+_TaskName:HideIBar
+VERS:1.03 (2004-10-30)
+# Fehler Meldungen für die 'Obey' Dateien
+RESERR:Meldung von HideIBar
+DESCRIPTION:HideIBar bringt die Symbolleiste automatisch in den Vordergrund sobald der Mauszeiger die untere Kante erreicht. Ein Mausklick oder Tastendruck und die Symbolleiste verschwindet wieder in den Hintergrund.
+CONFIX:ConfiX konnte nicht gefunden werden.
+NORES:HideIBarRes konnte nicht gefunden werden.
+NOCCRES:CCRes konnte nicht gefunden werden.
+MODTB:Das Modul 'Toolbox' ist für HideIBar erforderlich.
+MODWD:Das Modul 'Window' ist für HideIBar erforderlich.
+MODIB:Das Modul 'IconBar' ist für HideIBar erforderlich.
+MODMU:Das Modul 'Menu' ist für HideIBar erforderlich.
+MODPI:Das Modul 'ProgInfo' ist für HideIBar erforderlich.
+MODSC:Das Modul 'Scale' ist für HideIBar erforderlich.
+MODSAVE:Das Modul 'SaveAs' ist für HideIBar erforderlich.
+MODFI:Das Modul 'FileInfo' ist für HideIBar erforderlich.
+MODTA:Das Modul 'ToolAction' ist für HideIBar erforderlich.
+MODCD:Das Modul 'ColourDBox' ist für HideIBar erforderlich.
+MODCM:Das Modul 'ColourMenu' ist für HideIBar erforderlich.
+MODDCS:Das Modul 'DCS' ist für HideIBar erforderlich.
+MODFB:Das Modul 'FontDBox' ist für HideIBar erforderlich.
+MODFM:Das Modul 'FontMenu' ist für HideIBar erforderlich.
+MODPT:Das Modul 'PrintDBox' ist für HideIBar erforderlich.
+MODQT:Das Modul 'Quit' ist für HideIBar erforderlich.
+MODTG:Das Modul 'TextGadgets' ist für HideIBar erforderlich.
+MODURI:Das Modul 'URI' ist für HideIBar erforderlich.
+# Fehler Meldungen
+EXISTS:Es gibt schon eine Applikation mit diesem Namen, bitte einen anderen Namen wählen.
+UNTRAPPED:Unbekannter Fehler. %0
+CHOICES:Fehler beim lesen der Konfiguration. %0
+PROCESSING:%0
+CONFIGURE:Fehler beim starten von !ConfiX. %0
+NOSTRONGHELP:'StrongHelp' ist erforderlich.
+UOPENMSG:Die 'Messages' Datei konnte nicht geöffnet werden.
+MSGCLOSED:Die 'Messages' Datei ist nicht offen.
+MSGNFOUND:Der 'Message-TAG' wurde nicht gefunden.
+OCHOICES:Fehler beim öffnen des Einstellungsfenster. %0
+MCONFIX:Fehler beim Empfang der ConfiX Message. %0
+AUTOCREATE:Fehler beim Empfang der AutoCreate Message. %0
+TOOLBOXERROR:Fehler beim bearbeiten eines Toolbox Fehler. %0
+BUGZQUERY:Fehler beim bearbeiten einer Anfrage von der Bugz Applikation. %0
+BUGZCREATE:Fehler beim Erstellen der Bugz Fehlermeldung. %0
+NOBUGZ:Die Bugz Applikation konnte nicht gefunden werden. %0
+HOMEPAGE:Fehler beim öffnen der Homepage. %0
+SENDEMAIL:Fehler beim verschicken der E-Mail. %0
+MQUIT:Fehler beim Empfang der 'Quit' Message. %0
+TQUIT:Fehler beim Empfang der Toolbox 'Quit' Message. %0
+VIEWMANUAL:Fehler beim öffnen des Handbuchs. %0
+VIEWIHELP:Fehler beim starten der interaktiven Hilfe. %0
+VIEWCHAPTER:Fehler beim öffnen eines Kapitels im Handbuch. %0

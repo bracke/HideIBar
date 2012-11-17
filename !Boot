@@ -1,0 +1,13 @@
+Set Dummy$Path <Obey$Dir>.Resources.
+Run Dummy:ResFind HideIBar
+Unset Dummy$Path
+|
+Set HideIBar$Help HideIBarRes:HideIBar
+Set HideIBar$Version "1.03"
+Set HideIBar$Web "http://www.arcsite.de/hp/bracke/programming/mtools.html"
+Set HideIBar$Title "HideIBar"
+Set HideIBar$Publisher "Bent Bracke"
+Set HideIBar$Description "Brings the iconbar to the front when the mouse reaches the bottum of the screen."
+<HideIBar$Dir>.Resources.Describe HideIBar
+|
+Iconsprites <HideIBar$dir>.!Sprites

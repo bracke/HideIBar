@@ -1,0 +1,66 @@
+# This is a Bugz description file
+[*Title]
+HideIBar
+
+[*Info]
+Program: HideIBar
+Distribution: Ohne Einschränkung
+Version:1.03 (2004-10-30)
+Release: Volles Öffentliches Release
+
+[*Mail]
+bbracke@web.de
+
+[*Cat]
+
+
+[*Modules]
+AcornURI
+WindowManager
+MessageTrans
+Toolbox
+Window
+IconBar
+Menu
+ProgInfo
+Scale
+SaveAs
+FileInfo
+ToolAction
+ColourDBox
+ColourMenu
+DCS
+FontDBox
+FontMenu
+PrintDBox
+TextGadgets
+StrongHelp
+
+[*Show]
+HideIBar$Dir
+HideIBarRes$Path
+Bugz$Dir
+Choices$Dir
+Choices$Path
+Choices$Write
+Wimp$ScrapDir
+StrongHelp$Dir
+ConfiX$Dir
+HideIBar$Help
+HideIBar$Version
+HideIBar$Web
+HideIBar$Title
+HideIBar$Publisher
+HideIBar$Description
+
+[*Cat]
+Bitte den Fehler und die Umstände so genau wie möglich beschreiben.
+
+
+[Fehlermeldung - Bugz]
+Bei Problemen mit dem erstellen von Fehlermeldungen beachten Sie bitte
+das das Problem auch bei der Bugz Applikation liegen kann.
+
+[Handbuch]
+Bitte jeden Fehler im Handbuch melden - auch sprachliche und
+grammatische Fehler.

@@ -1,0 +1,5 @@
+Set Dummy$Path <Obey$Dir>.Resources.
+Run Dummy:ResFind HideIBar
+Unset Dummy$Path
+|
+if "<StrongHelp$Dir>" = "" then Filer_Run HideIBarRes:TextManual else Filer_Run HideIBarRes:HideIBar

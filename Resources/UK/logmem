@@ -1,0 +1,3149 @@
+logmem initialised
+malloc of 59 bytes by c.main : 286
+ block at 000150d4
+malloc of 16 bytes by c.manual : 70
+ block at 0001509c
+malloc of 9 bytes by c.manual : 83
+ block at 00015068
+malloc of 9 bytes by c.manual : 84
+ block at 00015034
+malloc of 125 bytes by c.dirlist : 39
+ block at 00014f8c
+malloc of 127 bytes by c.dirlist : 39
+ block at 00014ee4
+malloc of 127 bytes by c.dirlist : 39
+ block at 00014e3c
+malloc of 125 bytes by c.dirlist : 39
+ block at 00014d94
+malloc of 128 bytes by c.dirlist : 39
+ block at 00014cec
+malloc of 127 bytes by c.dirlist : 39
+ block at 00014c44
+malloc of 128 bytes by c.dirlist : 39
+ block at 00014b9c
+malloc of 127 bytes by c.dirlist : 39
+ block at 00014af4
+malloc of 127 bytes by c.dirlist : 39
+ block at 00014a4c
+malloc of 125 bytes by c.dirlist : 39
+ block at 000149a4
+malloc of 129 bytes by c.dirlist : 39
+ block at 000148f8
+malloc of 129 bytes by c.dirlist : 39
+ block at 0001484c
+malloc of 126 bytes by c.dirlist : 39
+ block at 000147a4
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00014774
+malloc of 8 bytes by c.textlist : 114
+ block at 00019108
+malloc of 7 bytes by c.textlist : 120
+ block at 000190d8
+malloc of 8 bytes by c.textlist : 114
+ block at 000190a8
+malloc of 7 bytes by c.textlist : 120
+ block at 00019078
+malloc of 8 bytes by c.textlist : 114
+ block at 00019048
+malloc of 35 bytes by c.textlist : 120
+ block at 00018ffc
+malloc of 8 bytes by c.textlist : 114
+ block at 00018fcc
+malloc of 9 bytes by c.textlist : 120
+ block at 00018f98
+malloc of 8 bytes by c.textlist : 114
+ block at 00018f68
+malloc of 7 bytes by c.textlist : 120
+ block at 00018f38
+malloc of 8 bytes by c.textlist : 114
+ block at 00018f08
+malloc of 1 bytes by c.textlist : 120
+ block at 00018edc
+malloc of 8 bytes by c.textlist : 114
+ block at 00018eac
+malloc of 1 bytes by c.textlist : 120
+ block at 00018e80
+malloc of 8 bytes by c.textlist : 114
+ block at 00018e50
+malloc of 72 bytes by c.textlist : 120
+ block at 00018de0
+malloc of 8 bytes by c.textlist : 114
+ block at 00018db0
+malloc of 13 bytes by c.textlist : 120
+ block at 00018d78
+malloc of 8 bytes by c.textlist : 114
+ block at 00018d48
+malloc of 5 bytes by c.textlist : 120
+ block at 00018d18
+malloc of 8 bytes by c.textlist : 114
+ block at 00018ce8
+malloc of 22 bytes by c.textlist : 120
+ block at 00018ca8
+malloc of 8 bytes by c.textlist : 114
+ block at 00018c78
+malloc of 35 bytes by c.textlist : 120
+ block at 00018c2c
+malloc of 8 bytes by c.textlist : 114
+ block at 00018bfc
+malloc of 6 bytes by c.textlist : 120
+ block at 00018bcc
+malloc of 8 bytes by c.textlist : 114
+ block at 00018b9c
+malloc of 30 bytes by c.textlist : 120
+ block at 00018b54
+malloc of 8 bytes by c.textlist : 114
+ block at 00018b24
+malloc of 10 bytes by c.textlist : 120
+ block at 00018af0
+malloc of 8 bytes by c.textlist : 114
+ block at 00018ac0
+malloc of 5 bytes by c.textlist : 120
+ block at 00018a90
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00018a60
+malloc of 8 bytes by c.textlist : 114
+ block at 00018a30
+malloc of 33 bytes by c.textlist : 120
+ block at 000189e4
+malloc of 8 bytes by c.textlist : 114
+ block at 000189b4
+malloc of 40 bytes by c.textlist : 120
+ block at 00018964
+malloc of 8 bytes by c.textlist : 114
+ block at 00018934
+malloc of 42 bytes by c.textlist : 120
+ block at 000188e0
+malloc of 8 bytes by c.textlist : 114
+ block at 000188b0
+malloc of 39 bytes by c.textlist : 120
+ block at 00018860
+malloc of 8 bytes by c.textlist : 114
+ block at 00018830
+malloc of 39 bytes by c.textlist : 120
+ block at 000187e0
+malloc of 8 bytes by c.textlist : 114
+ block at 000187b0
+malloc of 37 bytes by c.textlist : 120
+ block at 00018760
+malloc of 8 bytes by c.textlist : 114
+ block at 00018730
+malloc of 35 bytes by c.textlist : 120
+ block at 000186e4
+malloc of 8 bytes by c.textlist : 114
+ block at 000186b4
+malloc of 37 bytes by c.textlist : 120
+ block at 00018664
+malloc of 8 bytes by c.textlist : 114
+ block at 00018634
+malloc of 106 bytes by c.textlist : 120
+ block at 000185a0
+malloc of 8 bytes by c.textlist : 114
+ block at 00018570
+malloc of 106 bytes by c.textlist : 120
+ block at 000184dc
+malloc of 8 bytes by c.textlist : 114
+ block at 000184ac
+malloc of 105 bytes by c.textlist : 120
+ block at 00018418
+malloc of 8 bytes by c.textlist : 114
+ block at 000183e8
+malloc of 69 bytes by c.textlist : 120
+ block at 00018378
+free of 0001897c by c.textlist : 226
+  allocated as 40 bytes by c.textlist : 120
+free of 000189cc by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000188f8 by c.textlist : 226
+  allocated as 42 bytes by c.textlist : 120
+free of 0001894c by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00018878 by c.textlist : 226
+  allocated as 39 bytes by c.textlist : 120
+free of 000188c8 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000187f8 by c.textlist : 226
+  allocated as 39 bytes by c.textlist : 120
+free of 00018848 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00018778 by c.textlist : 226
+  allocated as 37 bytes by c.textlist : 120
+free of 000187c8 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000186fc by c.textlist : 226
+  allocated as 35 bytes by c.textlist : 120
+free of 00018748 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001867c by c.textlist : 226
+  allocated as 37 bytes by c.textlist : 120
+free of 000186cc by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00018a78 by c.textlist : 230
+  allocated as 8 bytes by c.textlist : 27
+malloc of 8 bytes by c.textlist : 114
+ block at 00018a60
+malloc of 27 bytes by c.textlist : 120
+ block at 00018334
+malloc of 8 bytes by c.textlist : 114
+ block at 000186b4
+malloc of 5 bytes by c.textlist : 120
+ block at 00018730
+malloc of 8 bytes by c.textlist : 114
+ block at 000187b0
+malloc of 43 bytes by c.textlist : 120
+ block at 000182e0
+malloc of 8 bytes by c.textlist : 114
+ block at 00018830
+malloc of 43 bytes by c.textlist : 120
+ block at 0001828c
+malloc of 8 bytes by c.textlist : 114
+ block at 000188b0
+malloc of 83 bytes by c.textlist : 120
+ block at 00018210
+malloc of 8 bytes by c.textlist : 114
+ block at 00018934
+malloc of 6 bytes by c.textlist : 120
+ block at 000189b4
+malloc of 8 bytes by c.textlist : 114
+ block at 000181e0
+malloc of 6 bytes by c.textlist : 120
+ block at 000181b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00018180
+malloc of 10 bytes by c.textlist : 120
+ block at 00014740
+malloc of 8 bytes by c.textlist : 114
+ block at 00018150
+malloc of 63 bytes by c.textlist : 120
+ block at 000146d8
+malloc of 8 bytes by c.textlist : 114
+ block at 000146a8
+malloc of 88 bytes by c.textlist : 120
+ block at 00014628
+malloc of 8 bytes by c.textlist : 114
+ block at 000145f8
+malloc of 5 bytes by c.textlist : 120
+ block at 000145c8
+malloc of 8 bytes by c.textlist : 114
+ block at 00014598
+malloc of 10 bytes by c.textlist : 120
+ block at 00014564
+malloc of 8 bytes by c.textlist : 114
+ block at 00014534
+malloc of 52 bytes by c.textlist : 120
+ block at 000144d8
+malloc of 8 bytes by c.textlist : 114
+ block at 000144a8
+malloc of 41 bytes by c.textlist : 120
+ block at 00014454
+malloc of 8 bytes by c.textlist : 114
+ block at 00014424
+malloc of 37 bytes by c.textlist : 120
+ block at 000143d4
+malloc of 8 bytes by c.textlist : 114
+ block at 000143a4
+malloc of 11 bytes by c.textlist : 120
+ block at 00014370
+malloc of 8 bytes by c.textlist : 114
+ block at 00014340
+malloc of 113 bytes by c.textlist : 120
+ block at 000180b4
+malloc of 8 bytes by c.textlist : 114
+ block at 00018984
+malloc of 8 bytes by c.textlist : 120
+ block at 00018904
+malloc of 8 bytes by c.textlist : 114
+ block at 00018880
+malloc of 9 bytes by c.textlist : 120
+ block at 000187fc
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00018780
+malloc of 8 bytes by c.textlist : 114
+ block at 00018700
+malloc of 7 bytes by c.textlist : 120
+ block at 00018684
+malloc of 8 bytes by c.textlist : 114
+ block at 00018084
+malloc of 7 bytes by c.textlist : 120
+ block at 00018054
+malloc of 8 bytes by c.textlist : 114
+ block at 00018024
+malloc of 45 bytes by c.textlist : 120
+ block at 00017fcc
+malloc of 8 bytes by c.textlist : 114
+ block at 00017f9c
+malloc of 9 bytes by c.textlist : 120
+ block at 00017f68
+malloc of 8 bytes by c.textlist : 114
+ block at 00017f38
+malloc of 7 bytes by c.textlist : 120
+ block at 00017f08
+malloc of 8 bytes by c.textlist : 114
+ block at 00017ed8
+malloc of 1 bytes by c.textlist : 120
+ block at 00017eac
+malloc of 8 bytes by c.textlist : 114
+ block at 00017e7c
+malloc of 1 bytes by c.textlist : 120
+ block at 00017e50
+malloc of 8 bytes by c.textlist : 114
+ block at 00017e20
+malloc of 28 bytes by c.textlist : 120
+ block at 00017ddc
+malloc of 8 bytes by c.textlist : 114
+ block at 00017dac
+malloc of 10 bytes by c.textlist : 120
+ block at 00017d78
+malloc of 8 bytes by c.textlist : 114
+ block at 00017d48
+malloc of 171 bytes by c.textlist : 120
+ block at 00017c74
+malloc of 8 bytes by c.textlist : 114
+ block at 00017c44
+malloc of 6 bytes by c.textlist : 120
+ block at 00017c14
+malloc of 8 bytes by c.textlist : 114
+ block at 00017be4
+malloc of 10 bytes by c.textlist : 120
+ block at 00017bb0
+malloc of 8 bytes by c.textlist : 114
+ block at 00017b80
+malloc of 30 bytes by c.textlist : 120
+ block at 00017b38
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00017b08
+malloc of 8 bytes by c.textlist : 114
+ block at 00017ad8
+malloc of 24 bytes by c.textlist : 120
+ block at 00017a98
+malloc of 8 bytes by c.textlist : 114
+ block at 00017a68
+malloc of 26 bytes by c.textlist : 120
+ block at 00017a24
+malloc of 8 bytes by c.textlist : 114
+ block at 000179f4
+malloc of 61 bytes by c.textlist : 120
+ block at 0001798c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001795c
+malloc of 22 bytes by c.textlist : 120
+ block at 0001791c
+malloc of 8 bytes by c.textlist : 114
+ block at 000178ec
+malloc of 26 bytes by c.textlist : 120
+ block at 000178a8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017878
+malloc of 30 bytes by c.textlist : 120
+ block at 00017830
+malloc of 8 bytes by c.textlist : 114
+ block at 00017800
+malloc of 15 bytes by c.textlist : 120
+ block at 000177c8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017798
+malloc of 29 bytes by c.textlist : 120
+ block at 00017750
+malloc of 8 bytes by c.textlist : 114
+ block at 00017720
+malloc of 13 bytes by c.textlist : 120
+ block at 000176e8
+malloc of 8 bytes by c.textlist : 114
+ block at 000176b8
+malloc of 32 bytes by c.textlist : 120
+ block at 00017670
+malloc of 8 bytes by c.textlist : 114
+ block at 00017640
+malloc of 10 bytes by c.textlist : 120
+ block at 0001760c
+malloc of 8 bytes by c.textlist : 114
+ block at 000175dc
+malloc of 1 bytes by c.textlist : 120
+ block at 000175b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00017580
+malloc of 37 bytes by c.textlist : 120
+ block at 00017530
+malloc of 8 bytes by c.textlist : 114
+ block at 00017500
+malloc of 30 bytes by c.textlist : 120
+ block at 000174b8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017488
+malloc of 1 bytes by c.textlist : 120
+ block at 0001745c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001742c
+malloc of 6 bytes by c.textlist : 120
+ block at 000173fc
+malloc of 8 bytes by c.textlist : 114
+ block at 000173cc
+malloc of 26 bytes by c.textlist : 120
+ block at 00017388
+malloc of 8 bytes by c.textlist : 114
+ block at 00017358
+malloc of 102 bytes by c.textlist : 120
+ block at 000172c8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017298
+malloc of 72 bytes by c.textlist : 120
+ block at 00017228
+malloc of 8 bytes by c.textlist : 114
+ block at 000171f8
+malloc of 139 bytes by c.textlist : 120
+ block at 00017144
+malloc of 8 bytes by c.textlist : 114
+ block at 00017114
+malloc of 100 bytes by c.textlist : 120
+ block at 00017088
+malloc of 8 bytes by c.textlist : 114
+ block at 00017058
+malloc of 72 bytes by c.textlist : 120
+ block at 00016fe8
+malloc of 8 bytes by c.textlist : 114
+ block at 00016fb8
+malloc of 76 bytes by c.textlist : 120
+ block at 00016f44
+malloc of 8 bytes by c.textlist : 114
+ block at 00016f14
+malloc of 93 bytes by c.textlist : 120
+ block at 00016e8c
+malloc of 8 bytes by c.textlist : 114
+ block at 00016e5c
+malloc of 107 bytes by c.textlist : 120
+ block at 00016dc8
+malloc of 8 bytes by c.textlist : 114
+ block at 00016d98
+malloc of 59 bytes by c.textlist : 120
+ block at 00016d34
+malloc of 8 bytes by c.textlist : 114
+ block at 00016d04
+malloc of 78 bytes by c.textlist : 120
+ block at 00016c8c
+malloc of 8 bytes by c.textlist : 114
+ block at 00016c5c
+malloc of 56 bytes by c.textlist : 120
+ block at 00016bfc
+malloc of 8 bytes by c.textlist : 114
+ block at 00016bcc
+malloc of 47 bytes by c.textlist : 120
+ block at 00016b74
+malloc of 8 bytes by c.textlist : 114
+ block at 00016b44
+malloc of 83 bytes by c.textlist : 120
+ block at 00016ac8
+malloc of 8 bytes by c.textlist : 114
+ block at 00016a98
+malloc of 76 bytes by c.textlist : 120
+ block at 00016a24
+malloc of 8 bytes by c.textlist : 114
+ block at 000169f4
+malloc of 47 bytes by c.textlist : 120
+ block at 0001699c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001696c
+malloc of 15 bytes by c.textlist : 120
+ block at 00016934
+free of 00017ab0 by c.textlist : 226
+  allocated as 24 bytes by c.textlist : 120
+free of 00017af0 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017a3c by c.textlist : 226
+  allocated as 26 bytes by c.textlist : 120
+free of 00017a80 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000179a4 by c.textlist : 226
+  allocated as 61 bytes by c.textlist : 120
+free of 00017a0c by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017934 by c.textlist : 226
+  allocated as 22 bytes by c.textlist : 120
+free of 00017974 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000178c0 by c.textlist : 226
+  allocated as 26 bytes by c.textlist : 120
+free of 00017904 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017848 by c.textlist : 226
+  allocated as 30 bytes by c.textlist : 120
+free of 00017890 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000177e0 by c.textlist : 226
+  allocated as 15 bytes by c.textlist : 120
+free of 00017818 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017768 by c.textlist : 226
+  allocated as 29 bytes by c.textlist : 120
+free of 000177b0 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017700 by c.textlist : 226
+  allocated as 13 bytes by c.textlist : 120
+free of 00017738 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017688 by c.textlist : 226
+  allocated as 32 bytes by c.textlist : 120
+free of 000176d0 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017624 by c.textlist : 226
+  allocated as 10 bytes by c.textlist : 120
+free of 00017658 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000175c8 by c.textlist : 226
+  allocated as 1 bytes by c.textlist : 120
+free of 000175f4 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017548 by c.textlist : 226
+  allocated as 37 bytes by c.textlist : 120
+free of 00017598 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000174d0 by c.textlist : 226
+  allocated as 30 bytes by c.textlist : 120
+free of 00017518 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017474 by c.textlist : 226
+  allocated as 1 bytes by c.textlist : 120
+free of 000174a0 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00017b20 by c.textlist : 230
+  allocated as 8 bytes by c.textlist : 27
+malloc of 8 bytes by c.textlist : 114
+ block at 00017b08
+malloc of 1 bytes by c.textlist : 120
+ block at 0001745c
+malloc of 8 bytes by c.textlist : 114
+ block at 00017488
+malloc of 10 bytes by c.textlist : 120
+ block at 0001760c
+malloc of 8 bytes by c.textlist : 114
+ block at 00017500
+malloc of 52 bytes by c.textlist : 120
+ block at 000168d8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017580
+malloc of 36 bytes by c.textlist : 120
+ block at 0001688c
+malloc of 8 bytes by c.textlist : 114
+ block at 000175dc
+malloc of 41 bytes by c.textlist : 120
+ block at 00016838
+malloc of 8 bytes by c.textlist : 114
+ block at 00017640
+malloc of 37 bytes by c.textlist : 120
+ block at 000167e8
+malloc of 8 bytes by c.textlist : 114
+ block at 000176b8
+malloc of 11 bytes by c.textlist : 120
+ block at 000176e8
+malloc of 8 bytes by c.textlist : 114
+ block at 00017720
+malloc of 113 bytes by c.textlist : 120
+ block at 0001674c
+malloc of 8 bytes by c.textlist : 114
+ block at 00017798
+malloc of 8 bytes by c.textlist : 120
+ block at 00017800
+malloc of 8 bytes by c.textlist : 114
+ block at 00017878
+malloc of 9 bytes by c.textlist : 120
+ block at 000177c8
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 000178ec
+malloc of 8 bytes by c.textlist : 114
+ block at 000178bc
+malloc of 7 bytes by c.textlist : 120
+ block at 0001d3c8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d398
+malloc of 7 bytes by c.textlist : 120
+ block at 0001d368
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d338
+malloc of 39 bytes by c.textlist : 120
+ block at 0001d2e8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d2b8
+malloc of 9 bytes by c.textlist : 120
+ block at 0001d284
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d254
+malloc of 7 bytes by c.textlist : 120
+ block at 0001d224
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d1f4
+malloc of 1 bytes by c.textlist : 120
+ block at 000175b0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d1c4
+malloc of 1 bytes by c.textlist : 120
+ block at 0001d198
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d168
+malloc of 22 bytes by c.textlist : 120
+ block at 0001d128
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d0f8
+malloc of 10 bytes by c.textlist : 120
+ block at 0001d0c4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d094
+malloc of 5 bytes by c.textlist : 120
+ block at 0001d064
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 0001d034
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d004
+malloc of 24 bytes by c.textlist : 120
+ block at 0001cfc4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cf94
+malloc of 217 bytes by c.textlist : 120
+ block at 0001ce90
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ce60
+malloc of 102 bytes by c.textlist : 120
+ block at 0001cdd0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cda0
+malloc of 44 bytes by c.textlist : 120
+ block at 0001cd4c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cd1c
+malloc of 26 bytes by c.textlist : 120
+ block at 0001ccd8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cca8
+malloc of 80 bytes by c.textlist : 120
+ block at 0001cc30
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cc00
+malloc of 273 bytes by c.textlist : 120
+ block at 0001cac4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ca94
+malloc of 158 bytes by c.textlist : 120
+ block at 0001c9cc
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c99c
+malloc of 100 bytes by c.textlist : 120
+ block at 0001c910
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c8e0
+malloc of 15 bytes by c.textlist : 120
+ block at 0001c8a8
+free of 0001cfdc by c.textlist : 226
+  allocated as 24 bytes by c.textlist : 120
+free of 0001d01c by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001cea8 by c.textlist : 226
+  allocated as 217 bytes by c.textlist : 120
+free of 0001cfac by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001cde8 by c.textlist : 226
+  allocated as 102 bytes by c.textlist : 120
+free of 0001ce78 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001cd64 by c.textlist : 226
+  allocated as 44 bytes by c.textlist : 120
+free of 0001cdb8 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001d04c by c.textlist : 230
+  allocated as 8 bytes by c.textlist : 27
+malloc of 8 bytes by c.textlist : 114
+ block at 0001d034
+malloc of 6 bytes by c.textlist : 120
+ block at 0001cda0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ce60
+malloc of 10 bytes by c.textlist : 120
+ block at 0001cfc4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cf94
+malloc of 1 bytes by c.textlist : 120
+ block at 0001d004
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c878
+malloc of 52 bytes by c.textlist : 120
+ block at 0001c81c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c7ec
+malloc of 56 bytes by c.textlist : 120
+ block at 0001c78c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c75c
+malloc of 6 bytes by c.textlist : 120
+ block at 0001c72c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c6fc
+malloc of 1 bytes by c.textlist : 120
+ block at 0001c6d0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c6a0
+malloc of 1 bytes by c.textlist : 120
+ block at 0001c674
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c644
+malloc of 10 bytes by c.textlist : 120
+ block at 0001c610
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c5e0
+malloc of 52 bytes by c.textlist : 120
+ block at 0001c584
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c554
+malloc of 36 bytes by c.textlist : 120
+ block at 0001c508
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c4d8
+malloc of 41 bytes by c.textlist : 120
+ block at 0001c484
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c454
+malloc of 37 bytes by c.textlist : 120
+ block at 0001c404
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c3d4
+malloc of 11 bytes by c.textlist : 120
+ block at 0001c3a0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c370
+malloc of 113 bytes by c.textlist : 120
+ block at 0001c2d4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c2a4
+malloc of 8 bytes by c.textlist : 120
+ block at 0001c274
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c244
+malloc of 9 bytes by c.textlist : 120
+ block at 0001c210
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 0001f3c8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f398
+malloc of 7 bytes by c.textlist : 120
+ block at 0001f368
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f338
+malloc of 7 bytes by c.textlist : 120
+ block at 0001f308
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f2d8
+malloc of 39 bytes by c.textlist : 120
+ block at 0001f288
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f258
+malloc of 9 bytes by c.textlist : 120
+ block at 0001f224
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f1f4
+malloc of 7 bytes by c.textlist : 120
+ block at 0001f1c4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f194
+malloc of 1 bytes by c.textlist : 120
+ block at 0001f168
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f138
+malloc of 1 bytes by c.textlist : 120
+ block at 0001f10c
+malloc of 11320 bytes by c.sprites : 54
+ block at 0001f3f8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f0dc
+malloc of 1 bytes by c.textlist : 120
+ block at 0001f0b0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f080
+malloc of 22 bytes by c.textlist : 120
+ block at 0001f040
+malloc of 8 bytes by c.textlist : 114
+ block at 0001f010
+malloc of 10 bytes by c.textlist : 120
+ block at 0001efdc
+malloc of 8 bytes by c.textlist : 114
+ block at 0001efac
+malloc of 62 bytes by c.textlist : 120
+ block at 0001ef44
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ef14
+malloc of 13 bytes by c.textlist : 120
+ block at 0001eedc
+malloc of 8 bytes by c.textlist : 114
+ block at 0001eeac
+malloc of 257 bytes by c.textlist : 120
+ block at 0001ed80
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ed50
+malloc of 121 bytes by c.textlist : 120
+ block at 0001ecac
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ec7c
+malloc of 6 bytes by c.textlist : 120
+ block at 0001ec4c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ec1c
+malloc of 15 bytes by c.textlist : 120
+ block at 0001ebe4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ebb4
+malloc of 16 bytes by c.textlist : 120
+ block at 0001eb7c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001eb4c
+malloc of 10 bytes by c.textlist : 120
+ block at 0001eb18
+malloc of 8 bytes by c.textlist : 114
+ block at 0001eae8
+malloc of 120 bytes by c.textlist : 120
+ block at 0001ea48
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ea18
+malloc of 65 bytes by c.textlist : 120
+ block at 0001e9ac
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e97c
+malloc of 6 bytes by c.textlist : 120
+ block at 0001e94c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e91c
+malloc of 10 bytes by c.textlist : 120
+ block at 0001e8e8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e8b8
+malloc of 1 bytes by c.textlist : 120
+ block at 0001e88c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e85c
+malloc of 52 bytes by c.textlist : 120
+ block at 0001e800
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e7d0
+malloc of 55 bytes by c.textlist : 120
+ block at 0001e770
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e740
+malloc of 6 bytes by c.textlist : 120
+ block at 0001e710
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e6e0
+malloc of 1 bytes by c.textlist : 120
+ block at 0001e6b4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e684
+malloc of 1 bytes by c.textlist : 120
+ block at 0001e658
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e628
+malloc of 10 bytes by c.textlist : 120
+ block at 0001e5f4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e5c4
+malloc of 52 bytes by c.textlist : 120
+ block at 0001e568
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e538
+malloc of 36 bytes by c.textlist : 120
+ block at 0001e4ec
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e4bc
+malloc of 41 bytes by c.textlist : 120
+ block at 0001e468
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e438
+malloc of 37 bytes by c.textlist : 120
+ block at 0001cf44
+malloc of 8 bytes by c.textlist : 114
+ block at 0001e400
+malloc of 11 bytes by c.textlist : 120
+ block at 0001cf10
+malloc of 8 bytes by c.textlist : 114
+ block at 0001cee0
+malloc of 113 bytes by c.textlist : 120
+ block at 0001c174
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ceb0
+malloc of 8 bytes by c.textlist : 120
+ block at 0001ce30
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ce00
+malloc of 9 bytes by c.textlist : 120
+ block at 0001cd6c
+free of 0001f410 by c.sprites : 111
+  allocated as 11320 bytes by c.sprites : 54
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 0001cdd0
+malloc of 8 bytes by c.textlist : 114
+ block at 00022030
+malloc of 7 bytes by c.textlist : 120
+ block at 00022000
+malloc of 8 bytes by c.textlist : 114
+ block at 00021fd0
+malloc of 7 bytes by c.textlist : 120
+ block at 00021fa0
+malloc of 8 bytes by c.textlist : 114
+ block at 00021f70
+malloc of 35 bytes by c.textlist : 120
+ block at 00021f24
+malloc of 8 bytes by c.textlist : 114
+ block at 00021ef4
+malloc of 9 bytes by c.textlist : 120
+ block at 00021ec0
+malloc of 8 bytes by c.textlist : 114
+ block at 00021e90
+malloc of 7 bytes by c.textlist : 120
+ block at 00021e60
+malloc of 8 bytes by c.textlist : 114
+ block at 00021e30
+malloc of 1 bytes by c.textlist : 120
+ block at 00021e04
+malloc of 8 bytes by c.textlist : 114
+ block at 00021dd4
+malloc of 1 bytes by c.textlist : 120
+ block at 00021da8
+malloc of 11320 bytes by c.sprites : 54
+ block at 00022060
+malloc of 8 bytes by c.textlist : 114
+ block at 00021d78
+malloc of 1 bytes by c.textlist : 120
+ block at 00021d4c
+malloc of 8 bytes by c.textlist : 114
+ block at 00021d1c
+malloc of 18 bytes by c.textlist : 120
+ block at 00021ce0
+malloc of 8 bytes by c.textlist : 114
+ block at 00021cb0
+malloc of 10 bytes by c.textlist : 120
+ block at 00021c7c
+malloc of 8 bytes by c.textlist : 114
+ block at 00021c4c
+malloc of 68 bytes by c.textlist : 120
+ block at 00021be0
+malloc of 8 bytes by c.textlist : 114
+ block at 00021bb0
+malloc of 13 bytes by c.textlist : 120
+ block at 00021b78
+malloc of 8 bytes by c.textlist : 114
+ block at 00021b48
+malloc of 307 bytes by c.textlist : 120
+ block at 000219ec
+malloc of 8 bytes by c.textlist : 114
+ block at 000219bc
+malloc of 6 bytes by c.textlist : 120
+ block at 0002198c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002195c
+malloc of 16 bytes by c.textlist : 120
+ block at 00021924
+malloc of 8 bytes by c.textlist : 114
+ block at 000218f4
+malloc of 15 bytes by c.textlist : 120
+ block at 000218bc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002188c
+malloc of 5 bytes by c.textlist : 120
+ block at 0002185c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002182c
+malloc of 127 bytes by c.textlist : 120
+ block at 00021784
+malloc of 8 bytes by c.textlist : 114
+ block at 00021754
+malloc of 310 bytes by c.textlist : 120
+ block at 000215f4
+malloc of 8 bytes by c.textlist : 114
+ block at 000215c4
+malloc of 5 bytes by c.textlist : 120
+ block at 00021594
+malloc of 8 bytes by c.textlist : 114
+ block at 00021564
+malloc of 258 bytes by c.textlist : 120
+ block at 00021438
+malloc of 8 bytes by c.textlist : 114
+ block at 00021408
+malloc of 6 bytes by c.textlist : 120
+ block at 000213d8
+malloc of 8 bytes by c.textlist : 114
+ block at 000213a8
+malloc of 10 bytes by c.textlist : 120
+ block at 00021374
+malloc of 8 bytes by c.textlist : 114
+ block at 00021344
+malloc of 1 bytes by c.textlist : 120
+ block at 00021318
+malloc of 8 bytes by c.textlist : 114
+ block at 000212e8
+malloc of 55 bytes by c.textlist : 120
+ block at 00021288
+malloc of 8 bytes by c.textlist : 114
+ block at 00021258
+malloc of 55 bytes by c.textlist : 120
+ block at 000211f8
+malloc of 8 bytes by c.textlist : 114
+ block at 000211c8
+malloc of 6 bytes by c.textlist : 120
+ block at 00021198
+malloc of 8 bytes by c.textlist : 114
+ block at 00021168
+malloc of 1 bytes by c.textlist : 120
+ block at 0002113c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002110c
+malloc of 1 bytes by c.textlist : 120
+ block at 000210e0
+malloc of 8 bytes by c.textlist : 114
+ block at 000210b0
+malloc of 10 bytes by c.textlist : 120
+ block at 0002107c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002104c
+malloc of 52 bytes by c.textlist : 120
+ block at 00020ff0
+malloc of 8 bytes by c.textlist : 114
+ block at 00020fc0
+malloc of 36 bytes by c.textlist : 120
+ block at 00020f74
+malloc of 8 bytes by c.textlist : 114
+ block at 00020f44
+malloc of 41 bytes by c.textlist : 120
+ block at 00020ef0
+malloc of 8 bytes by c.textlist : 114
+ block at 00020ec0
+malloc of 37 bytes by c.textlist : 120
+ block at 00020e70
+malloc of 8 bytes by c.textlist : 114
+ block at 00020e40
+malloc of 11 bytes by c.textlist : 120
+ block at 00020e0c
+malloc of 8 bytes by c.textlist : 114
+ block at 00020ddc
+malloc of 113 bytes by c.textlist : 120
+ block at 00020d40
+malloc of 8 bytes by c.textlist : 114
+ block at 00020d10
+malloc of 8 bytes by c.textlist : 120
+ block at 00020ce0
+malloc of 8 bytes by c.textlist : 114
+ block at 00020cb0
+malloc of 9 bytes by c.textlist : 120
+ block at 00020c7c
+free of 00022078 by c.sprites : 111
+  allocated as 11320 bytes by c.sprites : 54
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00020c4c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024c98
+malloc of 7 bytes by c.textlist : 120
+ block at 00024c68
+malloc of 8 bytes by c.textlist : 114
+ block at 00024c38
+malloc of 7 bytes by c.textlist : 120
+ block at 00024c08
+malloc of 8 bytes by c.textlist : 114
+ block at 00024bd8
+malloc of 34 bytes by c.textlist : 120
+ block at 00024b8c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024b5c
+malloc of 9 bytes by c.textlist : 120
+ block at 00024b28
+malloc of 8 bytes by c.textlist : 114
+ block at 00024af8
+malloc of 7 bytes by c.textlist : 120
+ block at 00024ac8
+malloc of 8 bytes by c.textlist : 114
+ block at 00024a98
+malloc of 1 bytes by c.textlist : 120
+ block at 00024a6c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024a3c
+malloc of 1 bytes by c.textlist : 120
+ block at 00024a10
+malloc of 8 bytes by c.textlist : 114
+ block at 000249e0
+malloc of 17 bytes by c.textlist : 120
+ block at 000249a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00024974
+malloc of 10 bytes by c.textlist : 120
+ block at 00024940
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00024910
+malloc of 8 bytes by c.textlist : 114
+ block at 000248e0
+malloc of 153 bytes by c.textlist : 120
+ block at 0002481c
+malloc of 8 bytes by c.textlist : 114
+ block at 000247ec
+malloc of 174 bytes by c.textlist : 120
+ block at 00024714
+malloc of 8 bytes by c.textlist : 114
+ block at 000246e4
+malloc of 154 bytes by c.textlist : 120
+ block at 00024620
+malloc of 8 bytes by c.textlist : 114
+ block at 000245f0
+malloc of 85 bytes by c.textlist : 120
+ block at 00024570
+malloc of 8 bytes by c.textlist : 114
+ block at 00024540
+malloc of 10 bytes by c.textlist : 120
+ block at 0002450c
+malloc of 8 bytes by c.textlist : 114
+ block at 000244dc
+malloc of 1 bytes by c.textlist : 120
+ block at 000244b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00024480
+malloc of 34 bytes by c.textlist : 120
+ block at 00024434
+malloc of 8 bytes by c.textlist : 114
+ block at 00024404
+malloc of 30 bytes by c.textlist : 120
+ block at 000243bc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002438c
+malloc of 1 bytes by c.textlist : 120
+ block at 00024360
+malloc of 8 bytes by c.textlist : 114
+ block at 00024330
+malloc of 26 bytes by c.textlist : 120
+ block at 000242ec
+malloc of 8 bytes by c.textlist : 114
+ block at 000242bc
+malloc of 231 bytes by c.textlist : 120
+ block at 000241ac
+malloc of 8 bytes by c.textlist : 114
+ block at 0002417c
+malloc of 252 bytes by c.textlist : 120
+ block at 00024058
+malloc of 8 bytes by c.textlist : 114
+ block at 00024028
+malloc of 232 bytes by c.textlist : 120
+ block at 00023f18
+malloc of 8 bytes by c.textlist : 114
+ block at 00023ee8
+malloc of 163 bytes by c.textlist : 120
+ block at 00023e1c
+malloc of 8 bytes by c.textlist : 114
+ block at 00023dec
+malloc of 56 bytes by c.textlist : 120
+ block at 00023d8c
+malloc of 8 bytes by c.textlist : 114
+ block at 00023d5c
+malloc of 47 bytes by c.textlist : 120
+ block at 00023d04
+malloc of 8 bytes by c.textlist : 114
+ block at 00023cd4
+malloc of 80 bytes by c.textlist : 120
+ block at 00023c5c
+malloc of 8 bytes by c.textlist : 114
+ block at 00023c2c
+malloc of 76 bytes by c.textlist : 120
+ block at 00023bb8
+malloc of 8 bytes by c.textlist : 114
+ block at 00023b88
+malloc of 47 bytes by c.textlist : 120
+ block at 00023b30
+malloc of 8 bytes by c.textlist : 114
+ block at 00023b00
+malloc of 15 bytes by c.textlist : 120
+ block at 00023ac8
+free of 00024834 by c.textlist : 226
+  allocated as 153 bytes by c.textlist : 120
+free of 000248f8 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0002472c by c.textlist : 226
+  allocated as 174 bytes by c.textlist : 120
+free of 00024804 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00024638 by c.textlist : 226
+  allocated as 154 bytes by c.textlist : 120
+free of 000246fc by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00024588 by c.textlist : 226
+  allocated as 85 bytes by c.textlist : 120
+free of 00024608 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00024524 by c.textlist : 226
+  allocated as 10 bytes by c.textlist : 120
+free of 00024558 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000244c8 by c.textlist : 226
+  allocated as 1 bytes by c.textlist : 120
+free of 000244f4 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0002444c by c.textlist : 226
+  allocated as 34 bytes by c.textlist : 120
+free of 00024498 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 000243d4 by c.textlist : 226
+  allocated as 30 bytes by c.textlist : 120
+free of 0002441c by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00024378 by c.textlist : 226
+  allocated as 1 bytes by c.textlist : 120
+free of 000243a4 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00024928 by c.textlist : 230
+  allocated as 8 bytes by c.textlist : 27
+malloc of 8 bytes by c.textlist : 114
+ block at 00024910
+malloc of 1 bytes by c.textlist : 120
+ block at 00024360
+malloc of 8 bytes by c.textlist : 114
+ block at 0002438c
+malloc of 10 bytes by c.textlist : 120
+ block at 0002450c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024404
+malloc of 52 bytes by c.textlist : 120
+ block at 00023a6c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024480
+malloc of 36 bytes by c.textlist : 120
+ block at 00023a20
+malloc of 8 bytes by c.textlist : 114
+ block at 000244dc
+malloc of 41 bytes by c.textlist : 120
+ block at 000239cc
+malloc of 8 bytes by c.textlist : 114
+ block at 00024540
+malloc of 37 bytes by c.textlist : 120
+ block at 0002397c
+malloc of 8 bytes by c.textlist : 114
+ block at 000245f0
+malloc of 11 bytes by c.textlist : 120
+ block at 00023948
+malloc of 8 bytes by c.textlist : 114
+ block at 000246e4
+malloc of 113 bytes by c.textlist : 120
+ block at 000238ac
+malloc of 8 bytes by c.textlist : 114
+ block at 000247ec
+malloc of 8 bytes by c.textlist : 120
+ block at 000248e0
+malloc of 8 bytes by c.textlist : 114
+ block at 0002387c
+malloc of 9 bytes by c.textlist : 120
+ block at 00023848
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00023818
+malloc of 8 bytes by c.textlist : 114
+ block at 000237e8
+malloc of 7 bytes by c.textlist : 120
+ block at 000237b8
+malloc of 8 bytes by c.textlist : 114
+ block at 00023788
+malloc of 7 bytes by c.textlist : 120
+ block at 00023758
+malloc of 8 bytes by c.textlist : 114
+ block at 00023728
+malloc of 35 bytes by c.textlist : 120
+ block at 000236dc
+malloc of 8 bytes by c.textlist : 114
+ block at 000236ac
+malloc of 9 bytes by c.textlist : 120
+ block at 00023678
+malloc of 8 bytes by c.textlist : 114
+ block at 00023648
+malloc of 7 bytes by c.textlist : 120
+ block at 00023618
+malloc of 8 bytes by c.textlist : 114
+ block at 000235e8
+malloc of 1 bytes by c.textlist : 120
+ block at 000244b0
+malloc of 8 bytes by c.textlist : 114
+ block at 000235b8
+malloc of 1 bytes by c.textlist : 120
+ block at 0002358c
+malloc of 11320 bytes by c.sprites : 54
+ block at 00024cc8
+malloc of 8 bytes by c.textlist : 114
+ block at 000248b0
+malloc of 1 bytes by c.textlist : 120
+ block at 00024884
+malloc of 8 bytes by c.textlist : 114
+ block at 00024854
+malloc of 18 bytes by c.textlist : 120
+ block at 000247b0
+malloc of 8 bytes by c.textlist : 114
+ block at 0002481c
+malloc of 10 bytes by c.textlist : 120
+ block at 0002477c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002474c
+malloc of 70 bytes by c.textlist : 120
+ block at 00024674
+malloc of 8 bytes by c.textlist : 114
+ block at 00024714
+malloc of 13 bytes by c.textlist : 120
+ block at 0002463c
+malloc of 8 bytes by c.textlist : 114
+ block at 000245c0
+malloc of 68 bytes by c.textlist : 120
+ block at 00023520
+malloc of 8 bytes by c.textlist : 114
+ block at 00024590
+malloc of 6 bytes by c.textlist : 120
+ block at 00024450
+malloc of 8 bytes by c.textlist : 114
+ block at 000243d4
+malloc of 15 bytes by c.textlist : 120
+ block at 000234e8
+malloc of 8 bytes by c.textlist : 114
+ block at 000234b8
+malloc of 16 bytes by c.textlist : 120
+ block at 00023480
+malloc of 8 bytes by c.textlist : 114
+ block at 00023450
+malloc of 10 bytes by c.textlist : 120
+ block at 0002341c
+malloc of 8 bytes by c.textlist : 114
+ block at 000233ec
+malloc of 10 bytes by c.textlist : 120
+ block at 000233b8
+malloc of 8 bytes by c.textlist : 114
+ block at 00023388
+malloc of 1 bytes by c.textlist : 120
+ block at 0002335c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002332c
+malloc of 54 bytes by c.textlist : 120
+ block at 000232cc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002329c
+malloc of 56 bytes by c.textlist : 120
+ block at 0002323c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002320c
+malloc of 6 bytes by c.textlist : 120
+ block at 000231dc
+malloc of 8 bytes by c.textlist : 114
+ block at 000231ac
+malloc of 1 bytes by c.textlist : 120
+ block at 00023180
+malloc of 8 bytes by c.textlist : 114
+ block at 00023150
+malloc of 1 bytes by c.textlist : 120
+ block at 00023124
+malloc of 8 bytes by c.textlist : 114
+ block at 000230f4
+malloc of 10 bytes by c.textlist : 120
+ block at 000230c0
+malloc of 8 bytes by c.textlist : 114
+ block at 00023090
+malloc of 52 bytes by c.textlist : 120
+ block at 00023034
+malloc of 8 bytes by c.textlist : 114
+ block at 00023004
+malloc of 36 bytes by c.textlist : 120
+ block at 00022fb8
+malloc of 8 bytes by c.textlist : 114
+ block at 00022f88
+malloc of 41 bytes by c.textlist : 120
+ block at 00022f34
+malloc of 8 bytes by c.textlist : 114
+ block at 00022f04
+malloc of 37 bytes by c.textlist : 120
+ block at 00022eb4
+malloc of 8 bytes by c.textlist : 114
+ block at 00022e84
+malloc of 11 bytes by c.textlist : 120
+ block at 00022e50
+malloc of 8 bytes by c.textlist : 114
+ block at 00022e20
+malloc of 113 bytes by c.textlist : 120
+ block at 00022d84
+malloc of 8 bytes by c.textlist : 114
+ block at 00022d54
+malloc of 8 bytes by c.textlist : 120
+ block at 00022d24
+malloc of 8 bytes by c.textlist : 114
+ block at 00022cf4
+malloc of 9 bytes by c.textlist : 120
+ block at 00022cc0
+free of 00024ce0 by c.sprites : 111
+  allocated as 11320 bytes by c.sprites : 54
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00022c90
+malloc of 8 bytes by c.textlist : 114
+ block at 00027900
+malloc of 7 bytes by c.textlist : 120
+ block at 000278d0
+malloc of 8 bytes by c.textlist : 114
+ block at 000278a0
+malloc of 7 bytes by c.textlist : 120
+ block at 00027870
+malloc of 8 bytes by c.textlist : 114
+ block at 00027840
+malloc of 34 bytes by c.textlist : 120
+ block at 000277f4
+malloc of 8 bytes by c.textlist : 114
+ block at 000277c4
+malloc of 9 bytes by c.textlist : 120
+ block at 00027790
+malloc of 8 bytes by c.textlist : 114
+ block at 00027760
+malloc of 7 bytes by c.textlist : 120
+ block at 00027730
+malloc of 8 bytes by c.textlist : 114
+ block at 00027700
+malloc of 1 bytes by c.textlist : 120
+ block at 000276d4
+malloc of 8 bytes by c.textlist : 114
+ block at 000276a4
+malloc of 1 bytes by c.textlist : 120
+ block at 00027678
+malloc of 8 bytes by c.textlist : 114
+ block at 00027648
+malloc of 17 bytes by c.textlist : 120
+ block at 0002760c
+malloc of 8 bytes by c.textlist : 114
+ block at 000275dc
+malloc of 10 bytes by c.textlist : 120
+ block at 000275a8
+malloc of 8 bytes by c.textlist : 114
+ block at 00027578
+malloc of 297 bytes by c.textlist : 120
+ block at 00027424
+malloc of 8 bytes by c.textlist : 114
+ block at 000273f4
+malloc of 55 bytes by c.textlist : 120
+ block at 00027394
+malloc of 8 bytes by c.textlist : 114
+ block at 00027364
+malloc of 5 bytes by c.textlist : 120
+ block at 00027334
+malloc of 8 bytes by c.textlist : 114
+ block at 00027304
+malloc of 72 bytes by c.textlist : 120
+ block at 00027294
+malloc of 8 bytes by c.textlist : 114
+ block at 00027264
+malloc of 5 bytes by c.textlist : 120
+ block at 00027234
+malloc of 8 bytes by c.textlist : 114
+ block at 00027204
+malloc of 119 bytes by c.textlist : 120
+ block at 00027164
+malloc of 8 bytes by c.textlist : 114
+ block at 00027134
+malloc of 5 bytes by c.textlist : 120
+ block at 00027104
+malloc of 8 bytes by c.textlist : 114
+ block at 000270d4
+malloc of 5 bytes by c.textlist : 120
+ block at 000270a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00027074
+malloc of 50 bytes by c.textlist : 120
+ block at 00027018
+malloc of 8 bytes by c.textlist : 114
+ block at 00026fe8
+malloc of 58 bytes by c.textlist : 120
+ block at 00026f84
+malloc of 8 bytes by c.textlist : 114
+ block at 00026f54
+malloc of 36 bytes by c.textlist : 120
+ block at 00026f08
+malloc of 8 bytes by c.textlist : 114
+ block at 00026ed8
+malloc of 58 bytes by c.textlist : 120
+ block at 00026e74
+malloc of 8 bytes by c.textlist : 114
+ block at 00026e44
+malloc of 15 bytes by c.textlist : 120
+ block at 00026e0c
+malloc of 8 bytes by c.textlist : 114
+ block at 00026ddc
+malloc of 6 bytes by c.textlist : 120
+ block at 00026dac
+malloc of 8 bytes by c.textlist : 114
+ block at 00026d7c
+malloc of 6 bytes by c.textlist : 120
+ block at 00026d4c
+malloc of 8 bytes by c.textlist : 114
+ block at 00026d1c
+malloc of 5 bytes by c.textlist : 120
+ block at 00026cec
+malloc of 8 bytes by c.textlist : 114
+ block at 00026cbc
+malloc of 415 bytes by c.textlist : 120
+ block at 00026af4
+malloc of 8 bytes by c.textlist : 114
+ block at 00026ac4
+malloc of 5 bytes by c.textlist : 120
+ block at 00026a94
+malloc of 8 bytes by c.textlist : 114
+ block at 00026a64
+malloc of 45 bytes by c.textlist : 120
+ block at 00026a0c
+malloc of 8 bytes by c.textlist : 114
+ block at 000269dc
+malloc of 5 bytes by c.textlist : 120
+ block at 000269ac
+malloc of 8 bytes by c.textlist : 114
+ block at 0002697c
+malloc of 219 bytes by c.textlist : 120
+ block at 00026878
+malloc of 8 bytes by c.textlist : 114
+ block at 00026848
+malloc of 5 bytes by c.textlist : 120
+ block at 00026818
+malloc of 8 bytes by c.textlist : 114
+ block at 000267e8
+malloc of 28 bytes by c.textlist : 120
+ block at 000267a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00026774
+malloc of 5 bytes by c.textlist : 120
+ block at 00026744
+malloc of 8 bytes by c.textlist : 114
+ block at 00026714
+malloc of 58 bytes by c.textlist : 120
+ block at 000266b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00026680
+malloc of 5 bytes by c.textlist : 120
+ block at 00026650
+malloc of 8 bytes by c.textlist : 114
+ block at 00026620
+malloc of 10 bytes by c.textlist : 120
+ block at 000265ec
+malloc of 8 bytes by c.textlist : 114
+ block at 000265bc
+malloc of 52 bytes by c.textlist : 120
+ block at 00026560
+malloc of 8 bytes by c.textlist : 114
+ block at 00026530
+malloc of 36 bytes by c.textlist : 120
+ block at 000264e4
+malloc of 8 bytes by c.textlist : 114
+ block at 000264b4
+malloc of 41 bytes by c.textlist : 120
+ block at 00026460
+malloc of 8 bytes by c.textlist : 114
+ block at 00026430
+malloc of 37 bytes by c.textlist : 120
+ block at 000263e0
+malloc of 8 bytes by c.textlist : 114
+ block at 000263b0
+malloc of 11 bytes by c.textlist : 120
+ block at 0002637c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002634c
+malloc of 113 bytes by c.textlist : 120
+ block at 000262b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00026280
+malloc of 8 bytes by c.textlist : 120
+ block at 00026250
+malloc of 8 bytes by c.textlist : 114
+ block at 00026220
+malloc of 9 bytes by c.textlist : 120
+ block at 000261ec
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 000261bc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002618c
+malloc of 7 bytes by c.textlist : 120
+ block at 0002615c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002612c
+malloc of 7 bytes by c.textlist : 120
+ block at 000260fc
+malloc of 8 bytes by c.textlist : 114
+ block at 000260cc
+malloc of 34 bytes by c.textlist : 120
+ block at 00026080
+malloc of 8 bytes by c.textlist : 114
+ block at 00026050
+malloc of 9 bytes by c.textlist : 120
+ block at 0002601c
+malloc of 8 bytes by c.textlist : 114
+ block at 00025fec
+malloc of 7 bytes by c.textlist : 120
+ block at 00025fbc
+malloc of 8 bytes by c.textlist : 114
+ block at 00025f8c
+malloc of 1 bytes by c.textlist : 120
+ block at 00025f60
+malloc of 8 bytes by c.textlist : 114
+ block at 00025f30
+malloc of 1 bytes by c.textlist : 120
+ block at 00025f04
+malloc of 8 bytes by c.textlist : 114
+ block at 00025ed4
+malloc of 17 bytes by c.textlist : 120
+ block at 00025e98
+malloc of 8 bytes by c.textlist : 114
+ block at 00025e68
+malloc of 10 bytes by c.textlist : 120
+ block at 00025e34
+malloc of 8 bytes by c.textlist : 114
+ block at 00025e04
+malloc of 119 bytes by c.textlist : 120
+ block at 00025d64
+malloc of 8 bytes by c.textlist : 114
+ block at 00025d34
+malloc of 6 bytes by c.textlist : 120
+ block at 00025d04
+malloc of 8 bytes by c.textlist : 114
+ block at 00025cd4
+malloc of 10 bytes by c.textlist : 120
+ block at 00025ca0
+malloc of 8 bytes by c.textlist : 114
+ block at 00025c70
+malloc of 32 bytes by c.textlist : 120
+ block at 00025c28
+malloc of 8 bytes by c.textlist : 114
+ block at 00025bf8
+malloc of 6 bytes by c.textlist : 120
+ block at 00025bc8
+malloc of 8 bytes by c.textlist : 114
+ block at 00025b98
+malloc of 5 bytes by c.textlist : 120
+ block at 00025b68
+malloc of 8 bytes by c.textlist : 114
+ block at 00025b38
+malloc of 231 bytes by c.textlist : 120
+ block at 00025a28
+malloc of 8 bytes by c.textlist : 114
+ block at 000259f8
+malloc of 6 bytes by c.textlist : 120
+ block at 000259c8
+malloc of 8 bytes by c.textlist : 114
+ block at 00025998
+malloc of 6 bytes by c.textlist : 120
+ block at 00025968
+malloc of 8 bytes by c.textlist : 114
+ block at 00025938
+malloc of 10 bytes by c.textlist : 120
+ block at 00025904
+malloc of 8 bytes by c.textlist : 114
+ block at 000258d4
+malloc of 1 bytes by c.textlist : 120
+ block at 000258a8
+malloc of 8 bytes by c.textlist : 114
+ block at 00025878
+malloc of 54 bytes by c.textlist : 120
+ block at 00025818
+malloc of 8 bytes by c.textlist : 114
+ block at 000257e8
+malloc of 55 bytes by c.textlist : 120
+ block at 00025788
+malloc of 8 bytes by c.textlist : 114
+ block at 00025758
+malloc of 6 bytes by c.textlist : 120
+ block at 00025728
+malloc of 8 bytes by c.textlist : 114
+ block at 000256f8
+malloc of 1 bytes by c.textlist : 120
+ block at 000256cc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002569c
+malloc of 1 bytes by c.textlist : 120
+ block at 00025670
+malloc of 8 bytes by c.textlist : 114
+ block at 00025640
+malloc of 10 bytes by c.textlist : 120
+ block at 0002560c
+malloc of 8 bytes by c.textlist : 114
+ block at 000255dc
+malloc of 52 bytes by c.textlist : 120
+ block at 00025580
+malloc of 8 bytes by c.textlist : 114
+ block at 00025550
+malloc of 36 bytes by c.textlist : 120
+ block at 00025504
+malloc of 8 bytes by c.textlist : 114
+ block at 000254d4
+malloc of 41 bytes by c.textlist : 120
+ block at 00025480
+malloc of 8 bytes by c.textlist : 114
+ block at 00025450
+malloc of 37 bytes by c.textlist : 120
+ block at 00025400
+malloc of 8 bytes by c.textlist : 114
+ block at 000253d0
+malloc of 11 bytes by c.textlist : 120
+ block at 0002539c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002536c
+malloc of 113 bytes by c.textlist : 120
+ block at 000252d0
+malloc of 8 bytes by c.textlist : 114
+ block at 000252a0
+malloc of 8 bytes by c.textlist : 120
+ block at 00025270
+malloc of 8 bytes by c.textlist : 114
+ block at 00025240
+malloc of 9 bytes by c.textlist : 120
+ block at 0002520c
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 000251dc
+malloc of 8 bytes by c.textlist : 114
+ block at 000251ac
+malloc of 7 bytes by c.textlist : 120
+ block at 0002517c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002514c
+malloc of 7 bytes by c.textlist : 120
+ block at 0002511c
+malloc of 8 bytes by c.textlist : 114
+ block at 000250ec
+malloc of 36 bytes by c.textlist : 120
+ block at 000250a0
+malloc of 8 bytes by c.textlist : 114
+ block at 00025070
+malloc of 9 bytes by c.textlist : 120
+ block at 0002503c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002500c
+malloc of 7 bytes by c.textlist : 120
+ block at 00024fdc
+malloc of 8 bytes by c.textlist : 114
+ block at 00024fac
+malloc of 1 bytes by c.textlist : 120
+ block at 00024f80
+malloc of 8 bytes by c.textlist : 114
+ block at 00024f50
+malloc of 1 bytes by c.textlist : 120
+ block at 00024f24
+malloc of 8 bytes by c.textlist : 114
+ block at 00024ef4
+malloc of 1 bytes by c.textlist : 120
+ block at 00024ec8
+malloc of 8 bytes by c.textlist : 114
+ block at 00024e98
+malloc of 19 bytes by c.textlist : 120
+ block at 00024e5c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024e2c
+malloc of 10 bytes by c.textlist : 120
+ block at 00024df8
+malloc of 8 bytes by c.textlist : 114
+ block at 00024dc8
+malloc of 97 bytes by c.textlist : 120
+ block at 00024d3c
+malloc of 8 bytes by c.textlist : 114
+ block at 00024d0c
+malloc of 6 bytes by c.textlist : 120
+ block at 00024cdc
+malloc of 8 bytes by c.textlist : 114
+ block at 00022c60
+malloc of 10 bytes by c.textlist : 120
+ block at 00022c2c
+malloc of 8 bytes by c.textlist : 114
+ block at 00022bfc
+malloc of 20 bytes by c.textlist : 120
+ block at 00022bc0
+malloc of 8 bytes by c.textlist : 114
+ block at 00022b90
+malloc of 114 bytes by c.textlist : 120
+ block at 00022af4
+malloc of 8 bytes by c.textlist : 114
+ block at 00022ac4
+malloc of 82 bytes by c.textlist : 120
+ block at 00022a48
+malloc of 8 bytes by c.textlist : 114
+ block at 00022a18
+malloc of 101 bytes by c.textlist : 120
+ block at 00022988
+malloc of 8 bytes by c.textlist : 114
+ block at 00022958
+malloc of 94 bytes by c.textlist : 120
+ block at 000228d0
+malloc of 8 bytes by c.textlist : 114
+ block at 000228a0
+malloc of 81 bytes by c.textlist : 120
+ block at 00022824
+malloc of 8 bytes by c.textlist : 114
+ block at 000227f4
+malloc of 5 bytes by c.textlist : 120
+ block at 000227c4
+malloc of 8 bytes by c.textlist : 114
+ block at 00022794
+malloc of 19 bytes by c.textlist : 120
+ block at 00022758
+malloc of 8 bytes by c.textlist : 114
+ block at 00022728
+malloc of 172 bytes by c.textlist : 120
+ block at 00022654
+malloc of 8 bytes by c.textlist : 114
+ block at 00022624
+malloc of 134 bytes by c.textlist : 120
+ block at 00022574
+malloc of 8 bytes by c.textlist : 114
+ block at 00022544
+malloc of 5 bytes by c.textlist : 120
+ block at 00022514
+malloc of 8 bytes by c.textlist : 114
+ block at 000224e4
+malloc of 16 bytes by c.textlist : 120
+ block at 000224ac
+malloc of 8 bytes by c.textlist : 114
+ block at 0002247c
+malloc of 164 bytes by c.textlist : 120
+ block at 000223b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00022380
+malloc of 139 bytes by c.textlist : 120
+ block at 000222cc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002229c
+malloc of 5 bytes by c.textlist : 120
+ block at 0002226c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002223c
+malloc of 29 bytes by c.textlist : 120
+ block at 000221f4
+malloc of 8 bytes by c.textlist : 114
+ block at 000221c4
+malloc of 114 bytes by c.textlist : 120
+ block at 00022128
+malloc of 8 bytes by c.textlist : 114
+ block at 000220f8
+malloc of 135 bytes by c.textlist : 120
+ block at 00020b9c
+malloc of 8 bytes by c.textlist : 114
+ block at 000220c8
+malloc of 217 bytes by c.textlist : 120
+ block at 00020a98
+malloc of 8 bytes by c.textlist : 114
+ block at 00022098
+malloc of 5 bytes by c.textlist : 120
+ block at 00022060
+malloc of 8 bytes by c.textlist : 114
+ block at 00020a68
+malloc of 22 bytes by c.textlist : 120
+ block at 00020a28
+malloc of 8 bytes by c.textlist : 114
+ block at 000209f8
+malloc of 114 bytes by c.textlist : 120
+ block at 0002095c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002092c
+malloc of 266 bytes by c.textlist : 120
+ block at 000207f8
+malloc of 8 bytes by c.textlist : 114
+ block at 000207c8
+malloc of 5 bytes by c.textlist : 120
+ block at 00020798
+malloc of 8 bytes by c.textlist : 114
+ block at 00020768
+malloc of 15 bytes by c.textlist : 120
+ block at 00020730
+malloc of 8 bytes by c.textlist : 114
+ block at 00020700
+malloc of 76 bytes by c.textlist : 120
+ block at 0002068c
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 0002065c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002062c
+malloc of 305 bytes by c.textlist : 120
+ block at 000204d0
+malloc of 8 bytes by c.textlist : 114
+ block at 000204a0
+malloc of 205 bytes by c.textlist : 120
+ block at 0001c07c
+malloc of 8 bytes by c.textlist : 114
+ block at 00020470
+malloc of 6 bytes by c.textlist : 120
+ block at 00020440
+malloc of 8 bytes by c.textlist : 114
+ block at 00020410
+malloc of 26 bytes by c.textlist : 120
+ block at 0001c038
+malloc of 8 bytes by c.textlist : 114
+ block at 0001c008
+malloc of 361 bytes by c.textlist : 120
+ block at 0001be74
+malloc of 8 bytes by c.textlist : 114
+ block at 0001be44
+malloc of 261 bytes by c.textlist : 120
+ block at 0001bd14
+malloc of 8 bytes by c.textlist : 114
+ block at 0001bce4
+malloc of 15 bytes by c.textlist : 120
+ block at 0001bcac
+free of 000204e8 by c.textlist : 226
+  allocated as 305 bytes by c.textlist : 120
+free of 00020644 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 0001c094 by c.textlist : 226
+  allocated as 205 bytes by c.textlist : 120
+free of 000204b8 by c.textlist : 227
+  allocated as 8 bytes by c.textlist : 114
+free of 00020674 by c.textlist : 230
+  allocated as 8 bytes by c.textlist : 27
+malloc of 8 bytes by c.textlist : 114
+ block at 0002065c
+malloc of 91 bytes by c.textlist : 120
+ block at 0001bc28
+malloc of 8 bytes by c.textlist : 114
+ block at 000204a0
+malloc of 5 bytes by c.textlist : 120
+ block at 0002062c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001bbf8
+malloc of 21 bytes by c.textlist : 120
+ block at 0001bbb8
+malloc of 8 bytes by c.textlist : 114
+ block at 0001bb88
+malloc of 189 bytes by c.textlist : 120
+ block at 0001baa0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ba70
+malloc of 5 bytes by c.textlist : 120
+ block at 0001ba40
+malloc of 8 bytes by c.textlist : 114
+ block at 0001ba10
+malloc of 10 bytes by c.textlist : 120
+ block at 0001b9dc
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b9ac
+malloc of 52 bytes by c.textlist : 120
+ block at 0001b950
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b920
+malloc of 36 bytes by c.textlist : 120
+ block at 0001b8d4
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b8a4
+malloc of 41 bytes by c.textlist : 120
+ block at 0001b850
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b820
+malloc of 37 bytes by c.textlist : 120
+ block at 0001b7d0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b7a0
+malloc of 11 bytes by c.textlist : 120
+ block at 0001b76c
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b73c
+malloc of 113 bytes by c.textlist : 120
+ block at 0001b6a0
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b670
+malloc of 8 bytes by c.textlist : 120
+ block at 0001b640
+malloc of 8 bytes by c.textlist : 114
+ block at 0001b610
+malloc of 9 bytes by c.textlist : 120
+ block at 0001b5dc
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 00029900
+malloc of 8 bytes by c.textlist : 114
+ block at 000298d0
+malloc of 7 bytes by c.textlist : 120
+ block at 000298a0
+malloc of 8 bytes by c.textlist : 114
+ block at 00029870
+malloc of 7 bytes by c.textlist : 120
+ block at 00029840
+malloc of 8 bytes by c.textlist : 114
+ block at 00029810
+malloc of 35 bytes by c.textlist : 120
+ block at 000297c4
+malloc of 8 bytes by c.textlist : 114
+ block at 00029794
+malloc of 9 bytes by c.textlist : 120
+ block at 00029760
+malloc of 8 bytes by c.textlist : 114
+ block at 00029730
+malloc of 7 bytes by c.textlist : 120
+ block at 00029700
+malloc of 8 bytes by c.textlist : 114
+ block at 000296d0
+malloc of 1 bytes by c.textlist : 120
+ block at 000296a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00029674
+malloc of 18 bytes by c.textlist : 120
+ block at 00029638
+malloc of 8 bytes by c.textlist : 114
+ block at 00029608
+malloc of 18 bytes by c.textlist : 120
+ block at 000295cc
+malloc of 8 bytes by c.textlist : 114
+ block at 0002959c
+malloc of 10 bytes by c.textlist : 120
+ block at 00029568
+malloc of 8 bytes by c.textlist : 114
+ block at 00029538
+malloc of 42 bytes by c.textlist : 120
+ block at 000294e4
+malloc of 8 bytes by c.textlist : 114
+ block at 000294b4
+malloc of 49 bytes by c.textlist : 120
+ block at 00029458
+malloc of 8 bytes by c.textlist : 114
+ block at 00029428
+malloc of 46 bytes by c.textlist : 120
+ block at 000293d0
+malloc of 8 bytes by c.textlist : 114
+ block at 000293a0
+malloc of 46 bytes by c.textlist : 120
+ block at 00029348
+malloc of 8 bytes by c.textlist : 114
+ block at 00029318
+malloc of 55 bytes by c.textlist : 120
+ block at 000292b8
+malloc of 8 bytes by c.textlist : 114
+ block at 00029288
+malloc of 42 bytes by c.textlist : 120
+ block at 00029234
+malloc of 8 bytes by c.textlist : 114
+ block at 00029204
+malloc of 44 bytes by c.textlist : 120
+ block at 000291b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00029180
+malloc of 44 bytes by c.textlist : 120
+ block at 0002912c
+malloc of 8 bytes by c.textlist : 114
+ block at 000290fc
+malloc of 48 bytes by c.textlist : 120
+ block at 000290a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00029074
+malloc of 6 bytes by c.textlist : 120
+ block at 00029044
+malloc of 8 bytes by c.textlist : 114
+ block at 00029014
+malloc of 10 bytes by c.textlist : 120
+ block at 00028fe0
+malloc of 8 bytes by c.textlist : 114
+ block at 00028fb0
+malloc of 109 bytes by c.textlist : 120
+ block at 00028f18
+malloc of 8 bytes by c.textlist : 114
+ block at 00028ee8
+malloc of 106 bytes by c.textlist : 120
+ block at 00028e54
+malloc of 8 bytes by c.textlist : 114
+ block at 00028e24
+malloc of 88 bytes by c.textlist : 120
+ block at 00028da4
+malloc of 8 bytes by c.textlist : 114
+ block at 00028d74
+malloc of 5 bytes by c.textlist : 120
+ block at 00028d44
+malloc of 8 bytes by c.textlist : 114
+ block at 00028d14
+malloc of 10 bytes by c.textlist : 120
+ block at 00028ce0
+malloc of 8 bytes by c.textlist : 114
+ block at 00028cb0
+malloc of 52 bytes by c.textlist : 120
+ block at 00028c54
+malloc of 8 bytes by c.textlist : 114
+ block at 00028c24
+malloc of 36 bytes by c.textlist : 120
+ block at 00028bd8
+malloc of 8 bytes by c.textlist : 114
+ block at 00028ba8
+malloc of 41 bytes by c.textlist : 120
+ block at 00028b54
+malloc of 8 bytes by c.textlist : 114
+ block at 00028b24
+malloc of 37 bytes by c.textlist : 120
+ block at 00028ad4
+malloc of 8 bytes by c.textlist : 114
+ block at 00028aa4
+malloc of 11 bytes by c.textlist : 120
+ block at 00028a70
+malloc of 8 bytes by c.textlist : 114
+ block at 00028a40
+malloc of 113 bytes by c.textlist : 120
+ block at 000289a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00028974
+malloc of 8 bytes by c.textlist : 120
+ block at 00028944
+malloc of 8 bytes by c.textlist : 114
+ block at 00028914
+malloc of 9 bytes by c.textlist : 120
+ block at 000288e0
+calloc:malloc of 8 bytes by c.textlist : 27
+ block at 000288b0
+malloc of 8 bytes by c.textlist : 114
+ block at 00028880
+malloc of 7 bytes by c.textlist : 120
+ block at 00028850
+malloc of 8 bytes by c.textlist : 114
+ block at 00028820
+malloc of 7 bytes by c.textlist : 120
+ block at 000287f0
+malloc of 8 bytes by c.textlist : 114
+ block at 000287c0
+malloc of 32 bytes by c.textlist : 120
+ block at 00028778
+malloc of 8 bytes by c.textlist : 114
+ block at 00028748
+malloc of 9 bytes by c.textlist : 120
+ block at 00028714
+malloc of 8 bytes by c.textlist : 114
+ block at 000286e4
+malloc of 7 bytes by c.textlist : 120
+ block at 000286b4
+malloc of 8 bytes by c.textlist : 114
+ block at 00028684
+malloc of 1 bytes by c.textlist : 120
+ block at 00028658
+malloc of 8 bytes by c.textlist : 114
+ block at 00028628
+malloc of 15 bytes by c.textlist : 120
+ block at 000285f0
+malloc of 8 bytes by c.textlist : 114
+ block at 000285c0
+malloc of 18 bytes by c.textlist : 120
+ block at 00028584
+malloc of 8 bytes by c.textlist : 114
+ block at 00028554
+malloc of 10 bytes by c.textlist : 120
+ block at 00028520
+malloc of 8 bytes by c.textlist : 114
+ block at 000284f0
+malloc of 37 bytes by c.textlist : 120
+ block at 000284a0
+malloc of 8 bytes by c.textlist : 114
+ block at 00028470
+malloc of 43 bytes by c.textlist : 120
+ block at 0002841c
+malloc of 8 bytes by c.textlist : 114
+ block at 000283ec
+malloc of 55 bytes by c.textlist : 120
+ block at 0002838c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002835c
+malloc of 49 bytes by c.textlist : 120
+ block at 00028300
+malloc of 8 bytes by c.textlist : 114
+ block at 000282d0
+malloc of 47 bytes by c.textlist : 120
+ block at 00028278
+malloc of 8 bytes by c.textlist : 114
+ block at 00028248
+malloc of 46 bytes by c.textlist : 120
+ block at 000281f0
+malloc of 8 bytes by c.textlist : 114
+ block at 000281c0
+malloc of 44 bytes by c.textlist : 120
+ block at 0002816c
+malloc of 8 bytes by c.textlist : 114
+ block at 0002813c
+malloc of 46 bytes by c.textlist : 120
+ block at 000280e4
+malloc of 8 bytes by c.textlist : 114
+ block at 000280b4
+malloc of 44 bytes by c.textlist : 120
+ block at 00028060
+malloc of 8 bytes by c.textlist : 114
+ block at 00028030
+malloc of 48 bytes by c.textlist : 120
+ block at 00027fd8
+malloc of 8 bytes by c.textlist : 114
+ block at 00027fa8
+malloc of 6 bytes by c.textlist : 120
+ block at 00027f78
+malloc of 8 bytes by c.textlist : 114
+ block at 00027f48
+malloc of 10 bytes by c.textlist : 120
+ block at 00027f14
+malloc of 8 bytes by c.textlist : 114
+ block at 00027ee4
+malloc of 109 bytes by c.textlist : 120
+ block at 00027e4c
+malloc of 8 bytes by c.textlist : 114
+ block at 00027e1c
+malloc of 106 bytes by c.textlist : 120
+ block at 00027d88
+malloc of 8 bytes by c.textlist : 114
+ block at 00027d58
+malloc of 88 bytes by c.textlist : 120
+ block at 00027cd8
+malloc of 8 bytes by c.textlist : 114
+ block at 00027ca8
+malloc of 5 bytes by c.textlist : 120
+ block at 00027c78
+malloc of 8 bytes by c.textlist : 114
+ block at 00027c48
+malloc of 10 bytes by c.textlist : 120
+ block at 00027c14
+malloc of 8 bytes by c.textlist : 114
+ block at 00027be4
+malloc of 52 bytes by c.textlist : 120
+ block at 00027b88
+malloc of 8 bytes by c.textlist : 114
+ block at 00027b58
+malloc of 36 bytes by c.textlist : 120
+ block at 00027b0c
+malloc of 8 bytes by c.textlist : 114
+ block at 00027adc
+malloc of 41 bytes by c.textlist : 120
+ block at 00027a88
+malloc of 8 bytes by c.textlist : 114
+ block at 00027a58
+malloc of 37 bytes by c.textlist : 120
+ block at 00027a08
+malloc of 8 bytes by c.textlist : 114
+ block at 000279d8
+malloc of 11 bytes by c.textlist : 120
+ block at 000279a4
+malloc of 8 bytes by c.textlist : 114
+ block at 00027974
+malloc of 113 bytes by c.textlist : 120
+ block at 00020590
+malloc of 8 bytes by c.textlist : 114
+ block at 00027944
+malloc of 8 bytes by c.textlist : 120
+ block at 00020560
+malloc of 8 bytes by c.textlist : 114
+ block at 00020530
+malloc of 9 bytes by c.textlist : 120
+ block at 000204fc
+
+
+blocks allocated at exit:
+  000150d4 (59 bytes) allocated by c.main : 286
+  0001509c (16 bytes) allocated by c.manual : 70
+  00015068 (9 bytes) allocated by c.manual : 83
+  00015034 (9 bytes) allocated by c.manual : 84
+  00014f8c (125 bytes) allocated by c.dirlist : 39
+  00014ee4 (127 bytes) allocated by c.dirlist : 39
+  00014e3c (127 bytes) allocated by c.dirlist : 39
+  00014d94 (125 bytes) allocated by c.dirlist : 39
+  00014cec (128 bytes) allocated by c.dirlist : 39
+  00014c44 (127 bytes) allocated by c.dirlist : 39
+  00014b9c (128 bytes) allocated by c.dirlist : 39
+  00014af4 (127 bytes) allocated by c.dirlist : 39
+  00014a4c (127 bytes) allocated by c.dirlist : 39
+  000149a4 (125 bytes) allocated by c.dirlist : 39
+  000148f8 (129 bytes) allocated by c.dirlist : 39
+  0001484c (129 bytes) allocated by c.dirlist : 39
+  000147a4 (126 bytes) allocated by c.dirlist : 39
+  00014774 (8 bytes) allocated by c.textlist : 27
+  00019108 (8 bytes) allocated by c.textlist : 114
+  000190d8 (7 bytes) allocated by c.textlist : 120
+  000190a8 (8 bytes) allocated by c.textlist : 114
+  00019078 (7 bytes) allocated by c.textlist : 120
+  00019048 (8 bytes) allocated by c.textlist : 114
+  00018ffc (35 bytes) allocated by c.textlist : 120
+  00018fcc (8 bytes) allocated by c.textlist : 114
+  00018f98 (9 bytes) allocated by c.textlist : 120
+  00018f68 (8 bytes) allocated by c.textlist : 114
+  00018f38 (7 bytes) allocated by c.textlist : 120
+  00018f08 (8 bytes) allocated by c.textlist : 114
+  00018edc (1 bytes) allocated by c.textlist : 120
+  00018eac (8 bytes) allocated by c.textlist : 114
+  00018e80 (1 bytes) allocated by c.textlist : 120
+  00018e50 (8 bytes) allocated by c.textlist : 114
+  00018de0 (72 bytes) allocated by c.textlist : 120
+  00018db0 (8 bytes) allocated by c.textlist : 114
+  00018d78 (13 bytes) allocated by c.textlist : 120
+  00018d48 (8 bytes) allocated by c.textlist : 114
+  00018d18 (5 bytes) allocated by c.textlist : 120
+  00018ce8 (8 bytes) allocated by c.textlist : 114
+  00018ca8 (22 bytes) allocated by c.textlist : 120
+  00018c78 (8 bytes) allocated by c.textlist : 114
+  00018c2c (35 bytes) allocated by c.textlist : 120
+  00018bfc (8 bytes) allocated by c.textlist : 114
+  00018bcc (6 bytes) allocated by c.textlist : 120
+  00018b9c (8 bytes) allocated by c.textlist : 114
+  00018b54 (30 bytes) allocated by c.textlist : 120
+  00018b24 (8 bytes) allocated by c.textlist : 114
+  00018af0 (10 bytes) allocated by c.textlist : 120
+  00018ac0 (8 bytes) allocated by c.textlist : 114
+  00018a90 (5 bytes) allocated by c.textlist : 120
+  00018a30 (8 bytes) allocated by c.textlist : 114
+  000189e4 (33 bytes) allocated by c.textlist : 120
+  00018634 (8 bytes) allocated by c.textlist : 114
+  000185a0 (106 bytes) allocated by c.textlist : 120
+  00018570 (8 bytes) allocated by c.textlist : 114
+  000184dc (106 bytes) allocated by c.textlist : 120
+  000184ac (8 bytes) allocated by c.textlist : 114
+  00018418 (105 bytes) allocated by c.textlist : 120
+  000183e8 (8 bytes) allocated by c.textlist : 114
+  00018378 (69 bytes) allocated by c.textlist : 120
+  00018a60 (8 bytes) allocated by c.textlist : 114
+  00018334 (27 bytes) allocated by c.textlist : 120
+  000186b4 (8 bytes) allocated by c.textlist : 114
+  00018730 (5 bytes) allocated by c.textlist : 120
+  000187b0 (8 bytes) allocated by c.textlist : 114
+  000182e0 (43 bytes) allocated by c.textlist : 120
+  00018830 (8 bytes) allocated by c.textlist : 114
+  0001828c (43 bytes) allocated by c.textlist : 120
+  000188b0 (8 bytes) allocated by c.textlist : 114
+  00018210 (83 bytes) allocated by c.textlist : 120
+  00018934 (8 bytes) allocated by c.textlist : 114
+  000189b4 (6 bytes) allocated by c.textlist : 120
+  000181e0 (8 bytes) allocated by c.textlist : 114
+  000181b0 (6 bytes) allocated by c.textlist : 120
+  00018180 (8 bytes) allocated by c.textlist : 114
+  00014740 (10 bytes) allocated by c.textlist : 120
+  00018150 (8 bytes) allocated by c.textlist : 114
+  000146d8 (63 bytes) allocated by c.textlist : 120
+  000146a8 (8 bytes) allocated by c.textlist : 114
+  00014628 (88 bytes) allocated by c.textlist : 120
+  000145f8 (8 bytes) allocated by c.textlist : 114
+  000145c8 (5 bytes) allocated by c.textlist : 120
+  00014598 (8 bytes) allocated by c.textlist : 114
+  00014564 (10 bytes) allocated by c.textlist : 120
+  00014534 (8 bytes) allocated by c.textlist : 114
+  000144d8 (52 bytes) allocated by c.textlist : 120
+  000144a8 (8 bytes) allocated by c.textlist : 114
+  00014454 (41 bytes) allocated by c.textlist : 120
+  00014424 (8 bytes) allocated by c.textlist : 114
+  000143d4 (37 bytes) allocated by c.textlist : 120
+  000143a4 (8 bytes) allocated by c.textlist : 114
+  00014370 (11 bytes) allocated by c.textlist : 120
+  00014340 (8 bytes) allocated by c.textlist : 114
+  000180b4 (113 bytes) allocated by c.textlist : 120
+  00018984 (8 bytes) allocated by c.textlist : 114
+  00018904 (8 bytes) allocated by c.textlist : 120
+  00018880 (8 bytes) allocated by c.textlist : 114
+  000187fc (9 bytes) allocated by c.textlist : 120
+  00018780 (8 bytes) allocated by c.textlist : 27
+  00018700 (8 bytes) allocated by c.textlist : 114
+  00018684 (7 bytes) allocated by c.textlist : 120
+  00018084 (8 bytes) allocated by c.textlist : 114
+  00018054 (7 bytes) allocated by c.textlist : 120
+  00018024 (8 bytes) allocated by c.textlist : 114
+  00017fcc (45 bytes) allocated by c.textlist : 120
+  00017f9c (8 bytes) allocated by c.textlist : 114
+  00017f68 (9 bytes) allocated by c.textlist : 120
+  00017f38 (8 bytes) allocated by c.textlist : 114
+  00017f08 (7 bytes) allocated by c.textlist : 120
+  00017ed8 (8 bytes) allocated by c.textlist : 114
+  00017eac (1 bytes) allocated by c.textlist : 120
+  00017e7c (8 bytes) allocated by c.textlist : 114
+  00017e50 (1 bytes) allocated by c.textlist : 120
+  00017e20 (8 bytes) allocated by c.textlist : 114
+  00017ddc (28 bytes) allocated by c.textlist : 120
+  00017dac (8 bytes) allocated by c.textlist : 114
+  00017d78 (10 bytes) allocated by c.textlist : 120
+  00017d48 (8 bytes) allocated by c.textlist : 114
+  00017c74 (171 bytes) allocated by c.textlist : 120
+  00017c44 (8 bytes) allocated by c.textlist : 114
+  00017c14 (6 bytes) allocated by c.textlist : 120
+  00017be4 (8 bytes) allocated by c.textlist : 114
+  00017bb0 (10 bytes) allocated by c.textlist : 120
+  00017b80 (8 bytes) allocated by c.textlist : 114
+  00017b38 (30 bytes) allocated by c.textlist : 120
+  0001742c (8 bytes) allocated by c.textlist : 114
+  000173fc (6 bytes) allocated by c.textlist : 120
+  000173cc (8 bytes) allocated by c.textlist : 114
+  00017388 (26 bytes) allocated by c.textlist : 120
+  00017358 (8 bytes) allocated by c.textlist : 114
+  000172c8 (102 bytes) allocated by c.textlist : 120
+  00017298 (8 bytes) allocated by c.textlist : 114
+  00017228 (72 bytes) allocated by c.textlist : 120
+  000171f8 (8 bytes) allocated by c.textlist : 114
+  00017144 (139 bytes) allocated by c.textlist : 120
+  00017114 (8 bytes) allocated by c.textlist : 114
+  00017088 (100 bytes) allocated by c.textlist : 120
+  00017058 (8 bytes) allocated by c.textlist : 114
+  00016fe8 (72 bytes) allocated by c.textlist : 120
+  00016fb8 (8 bytes) allocated by c.textlist : 114
+  00016f44 (76 bytes) allocated by c.textlist : 120
+  00016f14 (8 bytes) allocated by c.textlist : 114
+  00016e8c (93 bytes) allocated by c.textlist : 120
+  00016e5c (8 bytes) allocated by c.textlist : 114
+  00016dc8 (107 bytes) allocated by c.textlist : 120
+  00016d98 (8 bytes) allocated by c.textlist : 114
+  00016d34 (59 bytes) allocated by c.textlist : 120
+  00016d04 (8 bytes) allocated by c.textlist : 114
+  00016c8c (78 bytes) allocated by c.textlist : 120
+  00016c5c (8 bytes) allocated by c.textlist : 114
+  00016bfc (56 bytes) allocated by c.textlist : 120
+  00016bcc (8 bytes) allocated by c.textlist : 114
+  00016b74 (47 bytes) allocated by c.textlist : 120
+  00016b44 (8 bytes) allocated by c.textlist : 114
+  00016ac8 (83 bytes) allocated by c.textlist : 120
+  00016a98 (8 bytes) allocated by c.textlist : 114
+  00016a24 (76 bytes) allocated by c.textlist : 120
+  000169f4 (8 bytes) allocated by c.textlist : 114
+  0001699c (47 bytes) allocated by c.textlist : 120
+  0001696c (8 bytes) allocated by c.textlist : 114
+  00016934 (15 bytes) allocated by c.textlist : 120
+  00017b08 (8 bytes) allocated by c.textlist : 114
+  0001745c (1 bytes) allocated by c.textlist : 120
+  00017488 (8 bytes) allocated by c.textlist : 114
+  0001760c (10 bytes) allocated by c.textlist : 120
+  00017500 (8 bytes) allocated by c.textlist : 114
+  000168d8 (52 bytes) allocated by c.textlist : 120
+  00017580 (8 bytes) allocated by c.textlist : 114
+  0001688c (36 bytes) allocated by c.textlist : 120
+  000175dc (8 bytes) allocated by c.textlist : 114
+  00016838 (41 bytes) allocated by c.textlist : 120
+  00017640 (8 bytes) allocated by c.textlist : 114
+  000167e8 (37 bytes) allocated by c.textlist : 120
+  000176b8 (8 bytes) allocated by c.textlist : 114
+  000176e8 (11 bytes) allocated by c.textlist : 120
+  00017720 (8 bytes) allocated by c.textlist : 114
+  0001674c (113 bytes) allocated by c.textlist : 120
+  00017798 (8 bytes) allocated by c.textlist : 114
+  00017800 (8 bytes) allocated by c.textlist : 120
+  00017878 (8 bytes) allocated by c.textlist : 114
+  000177c8 (9 bytes) allocated by c.textlist : 120
+  000178ec (8 bytes) allocated by c.textlist : 27
+  000178bc (8 bytes) allocated by c.textlist : 114
+  0001d3c8 (7 bytes) allocated by c.textlist : 120
+  0001d398 (8 bytes) allocated by c.textlist : 114
+  0001d368 (7 bytes) allocated by c.textlist : 120
+  0001d338 (8 bytes) allocated by c.textlist : 114
+  0001d2e8 (39 bytes) allocated by c.textlist : 120
+  0001d2b8 (8 bytes) allocated by c.textlist : 114
+  0001d284 (9 bytes) allocated by c.textlist : 120
+  0001d254 (8 bytes) allocated by c.textlist : 114
+  0001d224 (7 bytes) allocated by c.textlist : 120
+  0001d1f4 (8 bytes) allocated by c.textlist : 114
+  000175b0 (1 bytes) allocated by c.textlist : 120
+  0001d1c4 (8 bytes) allocated by c.textlist : 114
+  0001d198 (1 bytes) allocated by c.textlist : 120
+  0001d168 (8 bytes) allocated by c.textlist : 114
+  0001d128 (22 bytes) allocated by c.textlist : 120
+  0001d0f8 (8 bytes) allocated by c.textlist : 114
+  0001d0c4 (10 bytes) allocated by c.textlist : 120
+  0001d094 (8 bytes) allocated by c.textlist : 114
+  0001d064 (5 bytes) allocated by c.textlist : 120
+  0001cd1c (8 bytes) allocated by c.textlist : 114
+  0001ccd8 (26 bytes) allocated by c.textlist : 120
+  0001cca8 (8 bytes) allocated by c.textlist : 114
+  0001cc30 (80 bytes) allocated by c.textlist : 120
+  0001cc00 (8 bytes) allocated by c.textlist : 114
+  0001cac4 (273 bytes) allocated by c.textlist : 120
+  0001ca94 (8 bytes) allocated by c.textlist : 114
+  0001c9cc (158 bytes) allocated by c.textlist : 120
+  0001c99c (8 bytes) allocated by c.textlist : 114
+  0001c910 (100 bytes) allocated by c.textlist : 120
+  0001c8e0 (8 bytes) allocated by c.textlist : 114
+  0001c8a8 (15 bytes) allocated by c.textlist : 120
+  0001d034 (8 bytes) allocated by c.textlist : 114
+  0001cda0 (6 bytes) allocated by c.textlist : 120
+  0001ce60 (8 bytes) allocated by c.textlist : 114
+  0001cfc4 (10 bytes) allocated by c.textlist : 120
+  0001cf94 (8 bytes) allocated by c.textlist : 114
+  0001d004 (1 bytes) allocated by c.textlist : 120
+  0001c878 (8 bytes) allocated by c.textlist : 114
+  0001c81c (52 bytes) allocated by c.textlist : 120
+  0001c7ec (8 bytes) allocated by c.textlist : 114
+  0001c78c (56 bytes) allocated by c.textlist : 120
+  0001c75c (8 bytes) allocated by c.textlist : 114
+  0001c72c (6 bytes) allocated by c.textlist : 120
+  0001c6fc (8 bytes) allocated by c.textlist : 114
+  0001c6d0 (1 bytes) allocated by c.textlist : 120
+  0001c6a0 (8 bytes) allocated by c.textlist : 114
+  0001c674 (1 bytes) allocated by c.textlist : 120
+  0001c644 (8 bytes) allocated by c.textlist : 114
+  0001c610 (10 bytes) allocated by c.textlist : 120
+  0001c5e0 (8 bytes) allocated by c.textlist : 114
+  0001c584 (52 bytes) allocated by c.textlist : 120
+  0001c554 (8 bytes) allocated by c.textlist : 114
+  0001c508 (36 bytes) allocated by c.textlist : 120
+  0001c4d8 (8 bytes) allocated by c.textlist : 114
+  0001c484 (41 bytes) allocated by c.textlist : 120
+  0001c454 (8 bytes) allocated by c.textlist : 114
+  0001c404 (37 bytes) allocated by c.textlist : 120
+  0001c3d4 (8 bytes) allocated by c.textlist : 114
+  0001c3a0 (11 bytes) allocated by c.textlist : 120
+  0001c370 (8 bytes) allocated by c.textlist : 114
+  0001c2d4 (113 bytes) allocated by c.textlist : 120
+  0001c2a4 (8 bytes) allocated by c.textlist : 114
+  0001c274 (8 bytes) allocated by c.textlist : 120
+  0001c244 (8 bytes) allocated by c.textlist : 114
+  0001c210 (9 bytes) allocated by c.textlist : 120
+  0001f3c8 (8 bytes) allocated by c.textlist : 27
+  0001f398 (8 bytes) allocated by c.textlist : 114
+  0001f368 (7 bytes) allocated by c.textlist : 120
+  0001f338 (8 bytes) allocated by c.textlist : 114
+  0001f308 (7 bytes) allocated by c.textlist : 120
+  0001f2d8 (8 bytes) allocated by c.textlist : 114
+  0001f288 (39 bytes) allocated by c.textlist : 120
+  0001f258 (8 bytes) allocated by c.textlist : 114
+  0001f224 (9 bytes) allocated by c.textlist : 120
+  0001f1f4 (8 bytes) allocated by c.textlist : 114
+  0001f1c4 (7 bytes) allocated by c.textlist : 120
+  0001f194 (8 bytes) allocated by c.textlist : 114
+  0001f168 (1 bytes) allocated by c.textlist : 120
+  0001f138 (8 bytes) allocated by c.textlist : 114
+  0001f10c (1 bytes) allocated by c.textlist : 120
+  0001f0dc (8 bytes) allocated by c.textlist : 114
+  0001f0b0 (1 bytes) allocated by c.textlist : 120
+  0001f080 (8 bytes) allocated by c.textlist : 114
+  0001f040 (22 bytes) allocated by c.textlist : 120
+  0001f010 (8 bytes) allocated by c.textlist : 114
+  0001efdc (10 bytes) allocated by c.textlist : 120
+  0001efac (8 bytes) allocated by c.textlist : 114
+  0001ef44 (62 bytes) allocated by c.textlist : 120
+  0001ef14 (8 bytes) allocated by c.textlist : 114
+  0001eedc (13 bytes) allocated by c.textlist : 120
+  0001eeac (8 bytes) allocated by c.textlist : 114
+  0001ed80 (257 bytes) allocated by c.textlist : 120
+  0001ed50 (8 bytes) allocated by c.textlist : 114
+  0001ecac (121 bytes) allocated by c.textlist : 120
+  0001ec7c (8 bytes) allocated by c.textlist : 114
+  0001ec4c (6 bytes) allocated by c.textlist : 120
+  0001ec1c (8 bytes) allocated by c.textlist : 114
+  0001ebe4 (15 bytes) allocated by c.textlist : 120
+  0001ebb4 (8 bytes) allocated by c.textlist : 114
+  0001eb7c (16 bytes) allocated by c.textlist : 120
+  0001eb4c (8 bytes) allocated by c.textlist : 114
+  0001eb18 (10 bytes) allocated by c.textlist : 120
+  0001eae8 (8 bytes) allocated by c.textlist : 114
+  0001ea48 (120 bytes) allocated by c.textlist : 120
+  0001ea18 (8 bytes) allocated by c.textlist : 114
+  0001e9ac (65 bytes) allocated by c.textlist : 120
+  0001e97c (8 bytes) allocated by c.textlist : 114
+  0001e94c (6 bytes) allocated by c.textlist : 120
+  0001e91c (8 bytes) allocated by c.textlist : 114
+  0001e8e8 (10 bytes) allocated by c.textlist : 120
+  0001e8b8 (8 bytes) allocated by c.textlist : 114
+  0001e88c (1 bytes) allocated by c.textlist : 120
+  0001e85c (8 bytes) allocated by c.textlist : 114
+  0001e800 (52 bytes) allocated by c.textlist : 120
+  0001e7d0 (8 bytes) allocated by c.textlist : 114
+  0001e770 (55 bytes) allocated by c.textlist : 120
+  0001e740 (8 bytes) allocated by c.textlist : 114
+  0001e710 (6 bytes) allocated by c.textlist : 120
+  0001e6e0 (8 bytes) allocated by c.textlist : 114
+  0001e6b4 (1 bytes) allocated by c.textlist : 120
+  0001e684 (8 bytes) allocated by c.textlist : 114
+  0001e658 (1 bytes) allocated by c.textlist : 120
+  0001e628 (8 bytes) allocated by c.textlist : 114
+  0001e5f4 (10 bytes) allocated by c.textlist : 120
+  0001e5c4 (8 bytes) allocated by c.textlist : 114
+  0001e568 (52 bytes) allocated by c.textlist : 120
+  0001e538 (8 bytes) allocated by c.textlist : 114
+  0001e4ec (36 bytes) allocated by c.textlist : 120
+  0001e4bc (8 bytes) allocated by c.textlist : 114
+  0001e468 (41 bytes) allocated by c.textlist : 120
+  0001e438 (8 bytes) allocated by c.textlist : 114
+  0001cf44 (37 bytes) allocated by c.textlist : 120
+  0001e400 (8 bytes) allocated by c.textlist : 114
+  0001cf10 (11 bytes) allocated by c.textlist : 120
+  0001cee0 (8 bytes) allocated by c.textlist : 114
+  0001c174 (113 bytes) allocated by c.textlist : 120
+  0001ceb0 (8 bytes) allocated by c.textlist : 114
+  0001ce30 (8 bytes) allocated by c.textlist : 120
+  0001ce00 (8 bytes) allocated by c.textlist : 114
+  0001cd6c (9 bytes) allocated by c.textlist : 120
+  0001cdd0 (8 bytes) allocated by c.textlist : 27
+  00022030 (8 bytes) allocated by c.textlist : 114
+  00022000 (7 bytes) allocated by c.textlist : 120
+  00021fd0 (8 bytes) allocated by c.textlist : 114
+  00021fa0 (7 bytes) allocated by c.textlist : 120
+  00021f70 (8 bytes) allocated by c.textlist : 114
+  00021f24 (35 bytes) allocated by c.textlist : 120
+  00021ef4 (8 bytes) allocated by c.textlist : 114
+  00021ec0 (9 bytes) allocated by c.textlist : 120
+  00021e90 (8 bytes) allocated by c.textlist : 114
+  00021e60 (7 bytes) allocated by c.textlist : 120
+  00021e30 (8 bytes) allocated by c.textlist : 114
+  00021e04 (1 bytes) allocated by c.textlist : 120
+  00021dd4 (8 bytes) allocated by c.textlist : 114
+  00021da8 (1 bytes) allocated by c.textlist : 120
+  00021d78 (8 bytes) allocated by c.textlist : 114
+  00021d4c (1 bytes) allocated by c.textlist : 120
+  00021d1c (8 bytes) allocated by c.textlist : 114
+  00021ce0 (18 bytes) allocated by c.textlist : 120
+  00021cb0 (8 bytes) allocated by c.textlist : 114
+  00021c7c (10 bytes) allocated by c.textlist : 120
+  00021c4c (8 bytes) allocated by c.textlist : 114
+  00021be0 (68 bytes) allocated by c.textlist : 120
+  00021bb0 (8 bytes) allocated by c.textlist : 114
+  00021b78 (13 bytes) allocated by c.textlist : 120
+  00021b48 (8 bytes) allocated by c.textlist : 114
+  000219ec (307 bytes) allocated by c.textlist : 120
+  000219bc (8 bytes) allocated by c.textlist : 114
+  0002198c (6 bytes) allocated by c.textlist : 120
+  0002195c (8 bytes) allocated by c.textlist : 114
+  00021924 (16 bytes) allocated by c.textlist : 120
+  000218f4 (8 bytes) allocated by c.textlist : 114
+  000218bc (15 bytes) allocated by c.textlist : 120
+  0002188c (8 bytes) allocated by c.textlist : 114
+  0002185c (5 bytes) allocated by c.textlist : 120
+  0002182c (8 bytes) allocated by c.textlist : 114
+  00021784 (127 bytes) allocated by c.textlist : 120
+  00021754 (8 bytes) allocated by c.textlist : 114
+  000215f4 (310 bytes) allocated by c.textlist : 120
+  000215c4 (8 bytes) allocated by c.textlist : 114
+  00021594 (5 bytes) allocated by c.textlist : 120
+  00021564 (8 bytes) allocated by c.textlist : 114
+  00021438 (258 bytes) allocated by c.textlist : 120
+  00021408 (8 bytes) allocated by c.textlist : 114
+  000213d8 (6 bytes) allocated by c.textlist : 120
+  000213a8 (8 bytes) allocated by c.textlist : 114
+  00021374 (10 bytes) allocated by c.textlist : 120
+  00021344 (8 bytes) allocated by c.textlist : 114
+  00021318 (1 bytes) allocated by c.textlist : 120
+  000212e8 (8 bytes) allocated by c.textlist : 114
+  00021288 (55 bytes) allocated by c.textlist : 120
+  00021258 (8 bytes) allocated by c.textlist : 114
+  000211f8 (55 bytes) allocated by c.textlist : 120
+  000211c8 (8 bytes) allocated by c.textlist : 114
+  00021198 (6 bytes) allocated by c.textlist : 120
+  00021168 (8 bytes) allocated by c.textlist : 114
+  0002113c (1 bytes) allocated by c.textlist : 120
+  0002110c (8 bytes) allocated by c.textlist : 114
+  000210e0 (1 bytes) allocated by c.textlist : 120
+  000210b0 (8 bytes) allocated by c.textlist : 114
+  0002107c (10 bytes) allocated by c.textlist : 120
+  0002104c (8 bytes) allocated by c.textlist : 114
+  00020ff0 (52 bytes) allocated by c.textlist : 120
+  00020fc0 (8 bytes) allocated by c.textlist : 114
+  00020f74 (36 bytes) allocated by c.textlist : 120
+  00020f44 (8 bytes) allocated by c.textlist : 114
+  00020ef0 (41 bytes) allocated by c.textlist : 120
+  00020ec0 (8 bytes) allocated by c.textlist : 114
+  00020e70 (37 bytes) allocated by c.textlist : 120
+  00020e40 (8 bytes) allocated by c.textlist : 114
+  00020e0c (11 bytes) allocated by c.textlist : 120
+  00020ddc (8 bytes) allocated by c.textlist : 114
+  00020d40 (113 bytes) allocated by c.textlist : 120
+  00020d10 (8 bytes) allocated by c.textlist : 114
+  00020ce0 (8 bytes) allocated by c.textlist : 120
+  00020cb0 (8 bytes) allocated by c.textlist : 114
+  00020c7c (9 bytes) allocated by c.textlist : 120
+  00020c4c (8 bytes) allocated by c.textlist : 27
+  00024c98 (8 bytes) allocated by c.textlist : 114
+  00024c68 (7 bytes) allocated by c.textlist : 120
+  00024c38 (8 bytes) allocated by c.textlist : 114
+  00024c08 (7 bytes) allocated by c.textlist : 120
+  00024bd8 (8 bytes) allocated by c.textlist : 114
+  00024b8c (34 bytes) allocated by c.textlist : 120
+  00024b5c (8 bytes) allocated by c.textlist : 114
+  00024b28 (9 bytes) allocated by c.textlist : 120
+  00024af8 (8 bytes) allocated by c.textlist : 114
+  00024ac8 (7 bytes) allocated by c.textlist : 120
+  00024a98 (8 bytes) allocated by c.textlist : 114
+  00024a6c (1 bytes) allocated by c.textlist : 120
+  00024a3c (8 bytes) allocated by c.textlist : 114
+  00024a10 (1 bytes) allocated by c.textlist : 120
+  000249e0 (8 bytes) allocated by c.textlist : 114
+  000249a4 (17 bytes) allocated by c.textlist : 120
+  00024974 (8 bytes) allocated by c.textlist : 114
+  00024940 (10 bytes) allocated by c.textlist : 120
+  00024330 (8 bytes) allocated by c.textlist : 114
+  000242ec (26 bytes) allocated by c.textlist : 120
+  000242bc (8 bytes) allocated by c.textlist : 114
+  000241ac (231 bytes) allocated by c.textlist : 120
+  0002417c (8 bytes) allocated by c.textlist : 114
+  00024058 (252 bytes) allocated by c.textlist : 120
+  00024028 (8 bytes) allocated by c.textlist : 114
+  00023f18 (232 bytes) allocated by c.textlist : 120
+  00023ee8 (8 bytes) allocated by c.textlist : 114
+  00023e1c (163 bytes) allocated by c.textlist : 120
+  00023dec (8 bytes) allocated by c.textlist : 114
+  00023d8c (56 bytes) allocated by c.textlist : 120
+  00023d5c (8 bytes) allocated by c.textlist : 114
+  00023d04 (47 bytes) allocated by c.textlist : 120
+  00023cd4 (8 bytes) allocated by c.textlist : 114
+  00023c5c (80 bytes) allocated by c.textlist : 120
+  00023c2c (8 bytes) allocated by c.textlist : 114
+  00023bb8 (76 bytes) allocated by c.textlist : 120
+  00023b88 (8 bytes) allocated by c.textlist : 114
+  00023b30 (47 bytes) allocated by c.textlist : 120
+  00023b00 (8 bytes) allocated by c.textlist : 114
+  00023ac8 (15 bytes) allocated by c.textlist : 120
+  00024910 (8 bytes) allocated by c.textlist : 114
+  00024360 (1 bytes) allocated by c.textlist : 120
+  0002438c (8 bytes) allocated by c.textlist : 114
+  0002450c (10 bytes) allocated by c.textlist : 120
+  00024404 (8 bytes) allocated by c.textlist : 114
+  00023a6c (52 bytes) allocated by c.textlist : 120
+  00024480 (8 bytes) allocated by c.textlist : 114
+  00023a20 (36 bytes) allocated by c.textlist : 120
+  000244dc (8 bytes) allocated by c.textlist : 114
+  000239cc (41 bytes) allocated by c.textlist : 120
+  00024540 (8 bytes) allocated by c.textlist : 114
+  0002397c (37 bytes) allocated by c.textlist : 120
+  000245f0 (8 bytes) allocated by c.textlist : 114
+  00023948 (11 bytes) allocated by c.textlist : 120
+  000246e4 (8 bytes) allocated by c.textlist : 114
+  000238ac (113 bytes) allocated by c.textlist : 120
+  000247ec (8 bytes) allocated by c.textlist : 114
+  000248e0 (8 bytes) allocated by c.textlist : 120
+  0002387c (8 bytes) allocated by c.textlist : 114
+  00023848 (9 bytes) allocated by c.textlist : 120
+  00023818 (8 bytes) allocated by c.textlist : 27
+  000237e8 (8 bytes) allocated by c.textlist : 114
+  000237b8 (7 bytes) allocated by c.textlist : 120
+  00023788 (8 bytes) allocated by c.textlist : 114
+  00023758 (7 bytes) allocated by c.textlist : 120
+  00023728 (8 bytes) allocated by c.textlist : 114
+  000236dc (35 bytes) allocated by c.textlist : 120
+  000236ac (8 bytes) allocated by c.textlist : 114
+  00023678 (9 bytes) allocated by c.textlist : 120
+  00023648 (8 bytes) allocated by c.textlist : 114
+  00023618 (7 bytes) allocated by c.textlist : 120
+  000235e8 (8 bytes) allocated by c.textlist : 114
+  000244b0 (1 bytes) allocated by c.textlist : 120
+  000235b8 (8 bytes) allocated by c.textlist : 114
+  0002358c (1 bytes) allocated by c.textlist : 120
+  000248b0 (8 bytes) allocated by c.textlist : 114
+  00024884 (1 bytes) allocated by c.textlist : 120
+  00024854 (8 bytes) allocated by c.textlist : 114
+  000247b0 (18 bytes) allocated by c.textlist : 120
+  0002481c (8 bytes) allocated by c.textlist : 114
+  0002477c (10 bytes) allocated by c.textlist : 120
+  0002474c (8 bytes) allocated by c.textlist : 114
+  00024674 (70 bytes) allocated by c.textlist : 120
+  00024714 (8 bytes) allocated by c.textlist : 114
+  0002463c (13 bytes) allocated by c.textlist : 120
+  000245c0 (8 bytes) allocated by c.textlist : 114
+  00023520 (68 bytes) allocated by c.textlist : 120
+  00024590 (8 bytes) allocated by c.textlist : 114
+  00024450 (6 bytes) allocated by c.textlist : 120
+  000243d4 (8 bytes) allocated by c.textlist : 114
+  000234e8 (15 bytes) allocated by c.textlist : 120
+  000234b8 (8 bytes) allocated by c.textlist : 114
+  00023480 (16 bytes) allocated by c.textlist : 120
+  00023450 (8 bytes) allocated by c.textlist : 114
+  0002341c (10 bytes) allocated by c.textlist : 120
+  000233ec (8 bytes) allocated by c.textlist : 114
+  000233b8 (10 bytes) allocated by c.textlist : 120
+  00023388 (8 bytes) allocated by c.textlist : 114
+  0002335c (1 bytes) allocated by c.textlist : 120
+  0002332c (8 bytes) allocated by c.textlist : 114
+  000232cc (54 bytes) allocated by c.textlist : 120
+  0002329c (8 bytes) allocated by c.textlist : 114
+  0002323c (56 bytes) allocated by c.textlist : 120
+  0002320c (8 bytes) allocated by c.textlist : 114
+  000231dc (6 bytes) allocated by c.textlist : 120
+  000231ac (8 bytes) allocated by c.textlist : 114
+  00023180 (1 bytes) allocated by c.textlist : 120
+  00023150 (8 bytes) allocated by c.textlist : 114
+  00023124 (1 bytes) allocated by c.textlist : 120
+  000230f4 (8 bytes) allocated by c.textlist : 114
+  000230c0 (10 bytes) allocated by c.textlist : 120
+  00023090 (8 bytes) allocated by c.textlist : 114
+  00023034 (52 bytes) allocated by c.textlist : 120
+  00023004 (8 bytes) allocated by c.textlist : 114
+  00022fb8 (36 bytes) allocated by c.textlist : 120
+  00022f88 (8 bytes) allocated by c.textlist : 114
+  00022f34 (41 bytes) allocated by c.textlist : 120
+  00022f04 (8 bytes) allocated by c.textlist : 114
+  00022eb4 (37 bytes) allocated by c.textlist : 120
+  00022e84 (8 bytes) allocated by c.textlist : 114
+  00022e50 (11 bytes) allocated by c.textlist : 120
+  00022e20 (8 bytes) allocated by c.textlist : 114
+  00022d84 (113 bytes) allocated by c.textlist : 120
+  00022d54 (8 bytes) allocated by c.textlist : 114
+  00022d24 (8 bytes) allocated by c.textlist : 120
+  00022cf4 (8 bytes) allocated by c.textlist : 114
+  00022cc0 (9 bytes) allocated by c.textlist : 120
+  00022c90 (8 bytes) allocated by c.textlist : 27
+  00027900 (8 bytes) allocated by c.textlist : 114
+  000278d0 (7 bytes) allocated by c.textlist : 120
+  000278a0 (8 bytes) allocated by c.textlist : 114
+  00027870 (7 bytes) allocated by c.textlist : 120
+  00027840 (8 bytes) allocated by c.textlist : 114
+  000277f4 (34 bytes) allocated by c.textlist : 120
+  000277c4 (8 bytes) allocated by c.textlist : 114
+  00027790 (9 bytes) allocated by c.textlist : 120
+  00027760 (8 bytes) allocated by c.textlist : 114
+  00027730 (7 bytes) allocated by c.textlist : 120
+  00027700 (8 bytes) allocated by c.textlist : 114
+  000276d4 (1 bytes) allocated by c.textlist : 120
+  000276a4 (8 bytes) allocated by c.textlist : 114
+  00027678 (1 bytes) allocated by c.textlist : 120
+  00027648 (8 bytes) allocated by c.textlist : 114
+  0002760c (17 bytes) allocated by c.textlist : 120
+  000275dc (8 bytes) allocated by c.textlist : 114
+  000275a8 (10 bytes) allocated by c.textlist : 120
+  00027578 (8 bytes) allocated by c.textlist : 114
+  00027424 (297 bytes) allocated by c.textlist : 120
+  000273f4 (8 bytes) allocated by c.textlist : 114
+  00027394 (55 bytes) allocated by c.textlist : 120
+  00027364 (8 bytes) allocated by c.textlist : 114
+  00027334 (5 bytes) allocated by c.textlist : 120
+  00027304 (8 bytes) allocated by c.textlist : 114
+  00027294 (72 bytes) allocated by c.textlist : 120
+  00027264 (8 bytes) allocated by c.textlist : 114
+  00027234 (5 bytes) allocated by c.textlist : 120
+  00027204 (8 bytes) allocated by c.textlist : 114
+  00027164 (119 bytes) allocated by c.textlist : 120
+  00027134 (8 bytes) allocated by c.textlist : 114
+  00027104 (5 bytes) allocated by c.textlist : 120
+  000270d4 (8 bytes) allocated by c.textlist : 114
+  000270a4 (5 bytes) allocated by c.textlist : 120
+  00027074 (8 bytes) allocated by c.textlist : 114
+  00027018 (50 bytes) allocated by c.textlist : 120
+  00026fe8 (8 bytes) allocated by c.textlist : 114
+  00026f84 (58 bytes) allocated by c.textlist : 120
+  00026f54 (8 bytes) allocated by c.textlist : 114
+  00026f08 (36 bytes) allocated by c.textlist : 120
+  00026ed8 (8 bytes) allocated by c.textlist : 114
+  00026e74 (58 bytes) allocated by c.textlist : 120
+  00026e44 (8 bytes) allocated by c.textlist : 114
+  00026e0c (15 bytes) allocated by c.textlist : 120
+  00026ddc (8 bytes) allocated by c.textlist : 114
+  00026dac (6 bytes) allocated by c.textlist : 120
+  00026d7c (8 bytes) allocated by c.textlist : 114
+  00026d4c (6 bytes) allocated by c.textlist : 120
+  00026d1c (8 bytes) allocated by c.textlist : 114
+  00026cec (5 bytes) allocated by c.textlist : 120
+  00026cbc (8 bytes) allocated by c.textlist : 114
+  00026af4 (415 bytes) allocated by c.textlist : 120
+  00026ac4 (8 bytes) allocated by c.textlist : 114
+  00026a94 (5 bytes) allocated by c.textlist : 120
+  00026a64 (8 bytes) allocated by c.textlist : 114
+  00026a0c (45 bytes) allocated by c.textlist : 120
+  000269dc (8 bytes) allocated by c.textlist : 114
+  000269ac (5 bytes) allocated by c.textlist : 120
+  0002697c (8 bytes) allocated by c.textlist : 114
+  00026878 (219 bytes) allocated by c.textlist : 120
+  00026848 (8 bytes) allocated by c.textlist : 114
+  00026818 (5 bytes) allocated by c.textlist : 120
+  000267e8 (8 bytes) allocated by c.textlist : 114
+  000267a4 (28 bytes) allocated by c.textlist : 120
+  00026774 (8 bytes) allocated by c.textlist : 114
+  00026744 (5 bytes) allocated by c.textlist : 120
+  00026714 (8 bytes) allocated by c.textlist : 114
+  000266b0 (58 bytes) allocated by c.textlist : 120
+  00026680 (8 bytes) allocated by c.textlist : 114
+  00026650 (5 bytes) allocated by c.textlist : 120
+  00026620 (8 bytes) allocated by c.textlist : 114
+  000265ec (10 bytes) allocated by c.textlist : 120
+  000265bc (8 bytes) allocated by c.textlist : 114
+  00026560 (52 bytes) allocated by c.textlist : 120
+  00026530 (8 bytes) allocated by c.textlist : 114
+  000264e4 (36 bytes) allocated by c.textlist : 120
+  000264b4 (8 bytes) allocated by c.textlist : 114
+  00026460 (41 bytes) allocated by c.textlist : 120
+  00026430 (8 bytes) allocated by c.textlist : 114
+  000263e0 (37 bytes) allocated by c.textlist : 120
+  000263b0 (8 bytes) allocated by c.textlist : 114
+  0002637c (11 bytes) allocated by c.textlist : 120
+  0002634c (8 bytes) allocated by c.textlist : 114
+  000262b0 (113 bytes) allocated by c.textlist : 120
+  00026280 (8 bytes) allocated by c.textlist : 114
+  00026250 (8 bytes) allocated by c.textlist : 120
+  00026220 (8 bytes) allocated by c.textlist : 114
+  000261ec (9 bytes) allocated by c.textlist : 120
+  000261bc (8 bytes) allocated by c.textlist : 27
+  0002618c (8 bytes) allocated by c.textlist : 114
+  0002615c (7 bytes) allocated by c.textlist : 120
+  0002612c (8 bytes) allocated by c.textlist : 114
+  000260fc (7 bytes) allocated by c.textlist : 120
+  000260cc (8 bytes) allocated by c.textlist : 114
+  00026080 (34 bytes) allocated by c.textlist : 120
+  00026050 (8 bytes) allocated by c.textlist : 114
+  0002601c (9 bytes) allocated by c.textlist : 120
+  00025fec (8 bytes) allocated by c.textlist : 114
+  00025fbc (7 bytes) allocated by c.textlist : 120
+  00025f8c (8 bytes) allocated by c.textlist : 114
+  00025f60 (1 bytes) allocated by c.textlist : 120
+  00025f30 (8 bytes) allocated by c.textlist : 114
+  00025f04 (1 bytes) allocated by c.textlist : 120
+  00025ed4 (8 bytes) allocated by c.textlist : 114
+  00025e98 (17 bytes) allocated by c.textlist : 120
+  00025e68 (8 bytes) allocated by c.textlist : 114
+  00025e34 (10 bytes) allocated by c.textlist : 120
+  00025e04 (8 bytes) allocated by c.textlist : 114
+  00025d64 (119 bytes) allocated by c.textlist : 120
+  00025d34 (8 bytes) allocated by c.textlist : 114
+  00025d04 (6 bytes) allocated by c.textlist : 120
+  00025cd4 (8 bytes) allocated by c.textlist : 114
+  00025ca0 (10 bytes) allocated by c.textlist : 120
+  00025c70 (8 bytes) allocated by c.textlist : 114
+  00025c28 (32 bytes) allocated by c.textlist : 120
+  00025bf8 (8 bytes) allocated by c.textlist : 114
+  00025bc8 (6 bytes) allocated by c.textlist : 120
+  00025b98 (8 bytes) allocated by c.textlist : 114
+  00025b68 (5 bytes) allocated by c.textlist : 120
+  00025b38 (8 bytes) allocated by c.textlist : 114
+  00025a28 (231 bytes) allocated by c.textlist : 120
+  000259f8 (8 bytes) allocated by c.textlist : 114
+  000259c8 (6 bytes) allocated by c.textlist : 120
+  00025998 (8 bytes) allocated by c.textlist : 114
+  00025968 (6 bytes) allocated by c.textlist : 120
+  00025938 (8 bytes) allocated by c.textlist : 114
+  00025904 (10 bytes) allocated by c.textlist : 120
+  000258d4 (8 bytes) allocated by c.textlist : 114
+  000258a8 (1 bytes) allocated by c.textlist : 120
+  00025878 (8 bytes) allocated by c.textlist : 114
+  00025818 (54 bytes) allocated by c.textlist : 120
+  000257e8 (8 bytes) allocated by c.textlist : 114
+  00025788 (55 bytes) allocated by c.textlist : 120
+  00025758 (8 bytes) allocated by c.textlist : 114
+  00025728 (6 bytes) allocated by c.textlist : 120
+  000256f8 (8 bytes) allocated by c.textlist : 114
+  000256cc (1 bytes) allocated by c.textlist : 120
+  0002569c (8 bytes) allocated by c.textlist : 114
+  00025670 (1 bytes) allocated by c.textlist : 120
+  00025640 (8 bytes) allocated by c.textlist : 114
+  0002560c (10 bytes) allocated by c.textlist : 120
+  000255dc (8 bytes) allocated by c.textlist : 114
+  00025580 (52 bytes) allocated by c.textlist : 120
+  00025550 (8 bytes) allocated by c.textlist : 114
+  00025504 (36 bytes) allocated by c.textlist : 120
+  000254d4 (8 bytes) allocated by c.textlist : 114
+  00025480 (41 bytes) allocated by c.textlist : 120
+  00025450 (8 bytes) allocated by c.textlist : 114
+  00025400 (37 bytes) allocated by c.textlist : 120
+  000253d0 (8 bytes) allocated by c.textlist : 114
+  0002539c (11 bytes) allocated by c.textlist : 120
+  0002536c (8 bytes) allocated by c.textlist : 114
+  000252d0 (113 bytes) allocated by c.textlist : 120
+  000252a0 (8 bytes) allocated by c.textlist : 114
+  00025270 (8 bytes) allocated by c.textlist : 120
+  00025240 (8 bytes) allocated by c.textlist : 114
+  0002520c (9 bytes) allocated by c.textlist : 120
+  000251dc (8 bytes) allocated by c.textlist : 27
+  000251ac (8 bytes) allocated by c.textlist : 114
+  0002517c (7 bytes) allocated by c.textlist : 120
+  0002514c (8 bytes) allocated by c.textlist : 114
+  0002511c (7 bytes) allocated by c.textlist : 120
+  000250ec (8 bytes) allocated by c.textlist : 114
+  000250a0 (36 bytes) allocated by c.textlist : 120
+  00025070 (8 bytes) allocated by c.textlist : 114
+  0002503c (9 bytes) allocated by c.textlist : 120
+  0002500c (8 bytes) allocated by c.textlist : 114
+  00024fdc (7 bytes) allocated by c.textlist : 120
+  00024fac (8 bytes) allocated by c.textlist : 114
+  00024f80 (1 bytes) allocated by c.textlist : 120
+  00024f50 (8 bytes) allocated by c.textlist : 114
+  00024f24 (1 bytes) allocated by c.textlist : 120
+  00024ef4 (8 bytes) allocated by c.textlist : 114
+  00024ec8 (1 bytes) allocated by c.textlist : 120
+  00024e98 (8 bytes) allocated by c.textlist : 114
+  00024e5c (19 bytes) allocated by c.textlist : 120
+  00024e2c (8 bytes) allocated by c.textlist : 114
+  00024df8 (10 bytes) allocated by c.textlist : 120
+  00024dc8 (8 bytes) allocated by c.textlist : 114
+  00024d3c (97 bytes) allocated by c.textlist : 120
+  00024d0c (8 bytes) allocated by c.textlist : 114
+  00024cdc (6 bytes) allocated by c.textlist : 120
+  00022c60 (8 bytes) allocated by c.textlist : 114
+  00022c2c (10 bytes) allocated by c.textlist : 120
+  00022bfc (8 bytes) allocated by c.textlist : 114
+  00022bc0 (20 bytes) allocated by c.textlist : 120
+  00022b90 (8 bytes) allocated by c.textlist : 114
+  00022af4 (114 bytes) allocated by c.textlist : 120
+  00022ac4 (8 bytes) allocated by c.textlist : 114
+  00022a48 (82 bytes) allocated by c.textlist : 120
+  00022a18 (8 bytes) allocated by c.textlist : 114
+  00022988 (101 bytes) allocated by c.textlist : 120
+  00022958 (8 bytes) allocated by c.textlist : 114
+  000228d0 (94 bytes) allocated by c.textlist : 120
+  000228a0 (8 bytes) allocated by c.textlist : 114
+  00022824 (81 bytes) allocated by c.textlist : 120
+  000227f4 (8 bytes) allocated by c.textlist : 114
+  000227c4 (5 bytes) allocated by c.textlist : 120
+  00022794 (8 bytes) allocated by c.textlist : 114
+  00022758 (19 bytes) allocated by c.textlist : 120
+  00022728 (8 bytes) allocated by c.textlist : 114
+  00022654 (172 bytes) allocated by c.textlist : 120
+  00022624 (8 bytes) allocated by c.textlist : 114
+  00022574 (134 bytes) allocated by c.textlist : 120
+  00022544 (8 bytes) allocated by c.textlist : 114
+  00022514 (5 bytes) allocated by c.textlist : 120
+  000224e4 (8 bytes) allocated by c.textlist : 114
+  000224ac (16 bytes) allocated by c.textlist : 120
+  0002247c (8 bytes) allocated by c.textlist : 114
+  000223b0 (164 bytes) allocated by c.textlist : 120
+  00022380 (8 bytes) allocated by c.textlist : 114
+  000222cc (139 bytes) allocated by c.textlist : 120
+  0002229c (8 bytes) allocated by c.textlist : 114
+  0002226c (5 bytes) allocated by c.textlist : 120
+  0002223c (8 bytes) allocated by c.textlist : 114
+  000221f4 (29 bytes) allocated by c.textlist : 120
+  000221c4 (8 bytes) allocated by c.textlist : 114
+  00022128 (114 bytes) allocated by c.textlist : 120
+  000220f8 (8 bytes) allocated by c.textlist : 114
+  00020b9c (135 bytes) allocated by c.textlist : 120
+  000220c8 (8 bytes) allocated by c.textlist : 114
+  00020a98 (217 bytes) allocated by c.textlist : 120
+  00022098 (8 bytes) allocated by c.textlist : 114
+  00022060 (5 bytes) allocated by c.textlist : 120
+  00020a68 (8 bytes) allocated by c.textlist : 114
+  00020a28 (22 bytes) allocated by c.textlist : 120
+  000209f8 (8 bytes) allocated by c.textlist : 114
+  0002095c (114 bytes) allocated by c.textlist : 120
+  0002092c (8 bytes) allocated by c.textlist : 114
+  000207f8 (266 bytes) allocated by c.textlist : 120
+  000207c8 (8 bytes) allocated by c.textlist : 114
+  00020798 (5 bytes) allocated by c.textlist : 120
+  00020768 (8 bytes) allocated by c.textlist : 114
+  00020730 (15 bytes) allocated by c.textlist : 120
+  00020700 (8 bytes) allocated by c.textlist : 114
+  0002068c (76 bytes) allocated by c.textlist : 120
+  00020470 (8 bytes) allocated by c.textlist : 114
+  00020440 (6 bytes) allocated by c.textlist : 120
+  00020410 (8 bytes) allocated by c.textlist : 114
+  0001c038 (26 bytes) allocated by c.textlist : 120
+  0001c008 (8 bytes) allocated by c.textlist : 114
+  0001be74 (361 bytes) allocated by c.textlist : 120
+  0001be44 (8 bytes) allocated by c.textlist : 114
+  0001bd14 (261 bytes) allocated by c.textlist : 120
+  0001bce4 (8 bytes) allocated by c.textlist : 114
+  0001bcac (15 bytes) allocated by c.textlist : 120
+  0002065c (8 bytes) allocated by c.textlist : 114
+  0001bc28 (91 bytes) allocated by c.textlist : 120
+  000204a0 (8 bytes) allocated by c.textlist : 114
+  0002062c (5 bytes) allocated by c.textlist : 120
+  0001bbf8 (8 bytes) allocated by c.textlist : 114
+  0001bbb8 (21 bytes) allocated by c.textlist : 120
+  0001bb88 (8 bytes) allocated by c.textlist : 114
+  0001baa0 (189 bytes) allocated by c.textlist : 120
+  0001ba70 (8 bytes) allocated by c.textlist : 114
+  0001ba40 (5 bytes) allocated by c.textlist : 120
+  0001ba10 (8 bytes) allocated by c.textlist : 114
+  0001b9dc (10 bytes) allocated by c.textlist : 120
+  0001b9ac (8 bytes) allocated by c.textlist : 114
+  0001b950 (52 bytes) allocated by c.textlist : 120
+  0001b920 (8 bytes) allocated by c.textlist : 114
+  0001b8d4 (36 bytes) allocated by c.textlist : 120
+  0001b8a4 (8 bytes) allocated by c.textlist : 114
+  0001b850 (41 bytes) allocated by c.textlist : 120
+  0001b820 (8 bytes) allocated by c.textlist : 114
+  0001b7d0 (37 bytes) allocated by c.textlist : 120
+  0001b7a0 (8 bytes) allocated by c.textlist : 114
+  0001b76c (11 bytes) allocated by c.textlist : 120
+  0001b73c (8 bytes) allocated by c.textlist : 114
+  0001b6a0 (113 bytes) allocated by c.textlist : 120
+  0001b670 (8 bytes) allocated by c.textlist : 114
+  0001b640 (8 bytes) allocated by c.textlist : 120
+  0001b610 (8 bytes) allocated by c.textlist : 114
+  0001b5dc (9 bytes) allocated by c.textlist : 120
+  00029900 (8 bytes) allocated by c.textlist : 27
+  000298d0 (8 bytes) allocated by c.textlist : 114
+  000298a0 (7 bytes) allocated by c.textlist : 120
+  00029870 (8 bytes) allocated by c.textlist : 114
+  00029840 (7 bytes) allocated by c.textlist : 120
+  00029810 (8 bytes) allocated by c.textlist : 114
+  000297c4 (35 bytes) allocated by c.textlist : 120
+  00029794 (8 bytes) allocated by c.textlist : 114
+  00029760 (9 bytes) allocated by c.textlist : 120
+  00029730 (8 bytes) allocated by c.textlist : 114
+  00029700 (7 bytes) allocated by c.textlist : 120
+  000296d0 (8 bytes) allocated by c.textlist : 114
+  000296a4 (1 bytes) allocated by c.textlist : 120
+  00029674 (8 bytes) allocated by c.textlist : 114
+  00029638 (18 bytes) allocated by c.textlist : 120
+  00029608 (8 bytes) allocated by c.textlist : 114
+  000295cc (18 bytes) allocated by c.textlist : 120
+  0002959c (8 bytes) allocated by c.textlist : 114
+  00029568 (10 bytes) allocated by c.textlist : 120
+  00029538 (8 bytes) allocated by c.textlist : 114
+  000294e4 (42 bytes) allocated by c.textlist : 120
+  000294b4 (8 bytes) allocated by c.textlist : 114
+  00029458 (49 bytes) allocated by c.textlist : 120
+  00029428 (8 bytes) allocated by c.textlist : 114
+  000293d0 (46 bytes) allocated by c.textlist : 120
+  000293a0 (8 bytes) allocated by c.textlist : 114
+  00029348 (46 bytes) allocated by c.textlist : 120
+  00029318 (8 bytes) allocated by c.textlist : 114
+  000292b8 (55 bytes) allocated by c.textlist : 120
+  00029288 (8 bytes) allocated by c.textlist : 114
+  00029234 (42 bytes) allocated by c.textlist : 120
+  00029204 (8 bytes) allocated by c.textlist : 114
+  000291b0 (44 bytes) allocated by c.textlist : 120
+  00029180 (8 bytes) allocated by c.textlist : 114
+  0002912c (44 bytes) allocated by c.textlist : 120
+  000290fc (8 bytes) allocated by c.textlist : 114
+  000290a4 (48 bytes) allocated by c.textlist : 120
+  00029074 (8 bytes) allocated by c.textlist : 114
+  00029044 (6 bytes) allocated by c.textlist : 120
+  00029014 (8 bytes) allocated by c.textlist : 114
+  00028fe0 (10 bytes) allocated by c.textlist : 120
+  00028fb0 (8 bytes) allocated by c.textlist : 114
+  00028f18 (109 bytes) allocated by c.textlist : 120
+  00028ee8 (8 bytes) allocated by c.textlist : 114
+  00028e54 (106 bytes) allocated by c.textlist : 120
+  00028e24 (8 bytes) allocated by c.textlist : 114
+  00028da4 (88 bytes) allocated by c.textlist : 120
+  00028d74 (8 bytes) allocated by c.textlist : 114
+  00028d44 (5 bytes) allocated by c.textlist : 120
+  00028d14 (8 bytes) allocated by c.textlist : 114
+  00028ce0 (10 bytes) allocated by c.textlist : 120
+  00028cb0 (8 bytes) allocated by c.textlist : 114
+  00028c54 (52 bytes) allocated by c.textlist : 120
+  00028c24 (8 bytes) allocated by c.textlist : 114
+  00028bd8 (36 bytes) allocated by c.textlist : 120
+  00028ba8 (8 bytes) allocated by c.textlist : 114
+  00028b54 (41 bytes) allocated by c.textlist : 120
+  00028b24 (8 bytes) allocated by c.textlist : 114
+  00028ad4 (37 bytes) allocated by c.textlist : 120
+  00028aa4 (8 bytes) allocated by c.textlist : 114
+  00028a70 (11 bytes) allocated by c.textlist : 120
+  00028a40 (8 bytes) allocated by c.textlist : 114
+  000289a4 (113 bytes) allocated by c.textlist : 120
+  00028974 (8 bytes) allocated by c.textlist : 114
+  00028944 (8 bytes) allocated by c.textlist : 120
+  00028914 (8 bytes) allocated by c.textlist : 114
+  000288e0 (9 bytes) allocated by c.textlist : 120
+  000288b0 (8 bytes) allocated by c.textlist : 27
+  00028880 (8 bytes) allocated by c.textlist : 114
+  00028850 (7 bytes) allocated by c.textlist : 120
+  00028820 (8 bytes) allocated by c.textlist : 114
+  000287f0 (7 bytes) allocated by c.textlist : 120
+  000287c0 (8 bytes) allocated by c.textlist : 114
+  00028778 (32 bytes) allocated by c.textlist : 120
+  00028748 (8 bytes) allocated by c.textlist : 114
+  00028714 (9 bytes) allocated by c.textlist : 120
+  000286e4 (8 bytes) allocated by c.textlist : 114
+  000286b4 (7 bytes) allocated by c.textlist : 120
+  00028684 (8 bytes) allocated by c.textlist : 114
+  00028658 (1 bytes) allocated by c.textlist : 120
+  00028628 (8 bytes) allocated by c.textlist : 114
+  000285f0 (15 bytes) allocated by c.textlist : 120
+  000285c0 (8 bytes) allocated by c.textlist : 114
+  00028584 (18 bytes) allocated by c.textlist : 120
+  00028554 (8 bytes) allocated by c.textlist : 114
+  00028520 (10 bytes) allocated by c.textlist : 120
+  000284f0 (8 bytes) allocated by c.textlist : 114
+  000284a0 (37 bytes) allocated by c.textlist : 120
+  00028470 (8 bytes) allocated by c.textlist : 114
+  0002841c (43 bytes) allocated by c.textlist : 120
+  000283ec (8 bytes) allocated by c.textlist : 114
+  0002838c (55 bytes) allocated by c.textlist : 120
+  0002835c (8 bytes) allocated by c.textlist : 114
+  00028300 (49 bytes) allocated by c.textlist : 120
+  000282d0 (8 bytes) allocated by c.textlist : 114
+  00028278 (47 bytes) allocated by c.textlist : 120
+  00028248 (8 bytes) allocated by c.textlist : 114
+  000281f0 (46 bytes) allocated by c.textlist : 120
+  000281c0 (8 bytes) allocated by c.textlist : 114
+  0002816c (44 bytes) allocated by c.textlist : 120
+  0002813c (8 bytes) allocated by c.textlist : 114
+  000280e4 (46 bytes) allocated by c.textlist : 120
+  000280b4 (8 bytes) allocated by c.textlist : 114
+  00028060 (44 bytes) allocated by c.textlist : 120
+  00028030 (8 bytes) allocated by c.textlist : 114
+  00027fd8 (48 bytes) allocated by c.textlist : 120
+  00027fa8 (8 bytes) allocated by c.textlist : 114
+  00027f78 (6 bytes) allocated by c.textlist : 120
+  00027f48 (8 bytes) allocated by c.textlist : 114
+  00027f14 (10 bytes) allocated by c.textlist : 120
+  00027ee4 (8 bytes) allocated by c.textlist : 114
+  00027e4c (109 bytes) allocated by c.textlist : 120
+  00027e1c (8 bytes) allocated by c.textlist : 114
+  00027d88 (106 bytes) allocated by c.textlist : 120
+  00027d58 (8 bytes) allocated by c.textlist : 114
+  00027cd8 (88 bytes) allocated by c.textlist : 120
+  00027ca8 (8 bytes) allocated by c.textlist : 114
+  00027c78 (5 bytes) allocated by c.textlist : 120
+  00027c48 (8 bytes) allocated by c.textlist : 114
+  00027c14 (10 bytes) allocated by c.textlist : 120
+  00027be4 (8 bytes) allocated by c.textlist : 114
+  00027b88 (52 bytes) allocated by c.textlist : 120
+  00027b58 (8 bytes) allocated by c.textlist : 114
+  00027b0c (36 bytes) allocated by c.textlist : 120
+  00027adc (8 bytes) allocated by c.textlist : 114
+  00027a88 (41 bytes) allocated by c.textlist : 120
+  00027a58 (8 bytes) allocated by c.textlist : 114
+  00027a08 (37 bytes) allocated by c.textlist : 120
+  000279d8 (8 bytes) allocated by c.textlist : 114
+  000279a4 (11 bytes) allocated by c.textlist : 120
+  00027974 (8 bytes) allocated by c.textlist : 114
+  00020590 (113 bytes) allocated by c.textlist : 120
+  00027944 (8 bytes) allocated by c.textlist : 114
+  00020560 (8 bytes) allocated by c.textlist : 120
+  00020530 (8 bytes) allocated by c.textlist : 114
+  000204fc (9 bytes) allocated by c.textlist : 120

@@ -1,0 +1,390 @@
+                                    HideIBar
+                                    ~~~~~~~~
+
+
+        HideIBar
+        Version 1.03 (2004-10-30)
+        ----------------------------------------------------------------------
+    è   Einf¸hrung    è Geschichte  
+    è   Installation  è Danksagungen
+    è   Probleme      è Lizenz      
+    è   Sprachen                    
+
+    è   Inhaltsverzeichnis
+    è   Index
+    è   Handbuch als Textdatei
+  ----------------------------------------------------------------------------
+  Email (bbracke@web.de)
+  Webpage
+  ============================================================================
+
+                                      Intro
+                                      ~~~~~
+    --------------------------------------------------------------------------
+          Wenn Sie sich noch nicht mit RISC OS auskennen, sollten Sie
+          zun‰chst die Handb¸cher 'Eine Einf¸hrung' und 'RISC OS
+          Handbuch'#url
+          http://acorn.riscos.com/riscos3/37/37DiscImage/Manuals/Manual/BOOKB/
+          BOOK_3.HTM> lesen.
+          Eine andere Einf¸hrung gibt es hier zu lesen.
+    --------------------------------------------------------------------------
+    HideIBar bringt die Symbolleiste automatisch in den Vordergrund sobald
+    der Mauszeiger die untere Kante erreicht.
+    Ein Mausklick oder Tastendruck und die Symbolleiste verschwindet wieder
+    in den Hintergrund.
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                   Installation
+                                   ~~~~~~~~~~~~
+    --------------------------------------------------------------------------
+      è   Das Program von der Homepage laden.
+      è   Das Program ist Zip komprimiert. Es kann mit SparkFS oder Sparkplug
+          dekomprimiert werden.
+      è   Die dekomprimierten Dateien auf die Festplatte kopieren.
+      è   Das war es auch schon - HideIBar ist jetzt installiert.
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                     Probleme
+                                     ~~~~~~~~
+    --------------------------------------------------------------------------
+          Diese Seite beschreibt einige bekannte Probleme / Fehler /
+          Merkw¸rdigkeiten und deren lˆsungen.
+    --------------------------------------------------------------------------
+    Toolbox
+    Probleme mit der Toolbox kˆnnen durch alte, fehlerhafte Toolbox Module
+    verursacht werden. Es sollten deshalb nur die neusten Versionen verwendet
+    werden.
+    Beispiel:
+
+                                                                        Page 1
+      The gadget flags have reserved bits set...
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                     Sprachen
+                                     ~~~~~~~~
+    --------------------------------------------------------------------------
+          HideIBar benutzt ResFind um herauszufinden welche Sprache benutzt
+          werden soll. Dies ist abh‰ngig von der konfigurierten Sprache und
+          den HideIBar zu verf¸gung stehenden Ressourcen. Falls es keine
+          ‹bereinstimmung gibt werden die englischen (UK) Ressourcen benutzt.
+
+    Um mehr Sprachen zu unterst¸tzen m¸ssen nur entsprechende Dateien dem
+    Ressourcen Verzeichnis hinzugef¸gt werden. Jede unterst¸tzte Sprache ist
+    durch ein Verzeichnis repr‰sentiert. Der Name des Verzeichnisses ist
+    abh‰ngig vom jeweiligen L‰nder-code.
+
+    ‹bersetze Ressourcen sollten an den Autor geschickt werden.
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                    Geschichte
+                                    ~~~~~~~~~~
+    --------------------------------------------------------------------------
+    Es wird die im ISO 8601 Standard definierte Form  JJJJ-MM-TT  f¸r
+    Datumsangaben verwendet.
+    --------------------------------------------------------------------------
+    v1.03 (2004-10-30)
+        è    Umstrukturiertes handbuch.
+    v1.02 (2003-01-21)
+        è    Unterst¸tzt neuen (ab RISC OS 4 & 5) Service Call Standard.
+        è    32 Bit kompatibel
+    v1.01 (2002-10-20)
+    Erste Version von Bent Bracke.
+        è    Dieser Text
+        è    Mehrsprachliche Hilfe
+    v1.00
+    Letzte Version von Mark Greenwood.
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                   Danksagungen
+                                   ~~~~~~~~~~~~
+    --------------------------------------------------------------------------
+    HideIBar benutzt einige andere Anwendungen, die im volgendem genannt
+    werden.
+    --------------------------------------------------------------------------
+    ResFind und ResError
+      ResFind und ResError sind © Olaf Krumnow & Herbert zur Nedden und
+      Freeware.
+      HideIBar enth‰llt nur das Program an sich - die volle Version mit
+      Dokumentation gibts es bei http://www.gag.de.
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+
+                                                                        Page 2
+                                      Lizenz
+                                      ~~~~~~
+    --------------------------------------------------------------------------
+        ß    HideIBar ist Freeware. Du darfst es ben¸tzen so viel und so
+             lange du willst aber das Copyright liegt noch immer bei den
+             Autoren: Bent Bracke und Mark Greenwood.
+        ß    Falls du HideIBar weitergibst muﬂt du daf¸r sorgen daﬂ das
+             Programm vollst‰ndig und unge‰ndert ist. Du darfst das Program
+             deinen W¸nschen anpassen aber nur die Original Version
+             weitergeben.
+        ß    Der Quellcode oder Teile davon darf in anderen Anwendungen
+             verwendet werden.
+        ß    Die Autoren ¸bernehmen keinerlei Haftung f¸r eventuelle Sch‰den,
+             die durch die Verwendung dieses Programmes entstehen!
+    --------------------------------------------------------------------------
+                                                                        zur¸ck
+                                                                           vor
+    ==========================================================================
+
+                                     ResFind
+                                     ~~~~~~~
+    --------------------------------------------------------------------------
+    HideIBar paﬂt sich automatisch an die Sprache des Rechners an, falls die
+    Meldungen usw. in der Sprache vorhanden sind. Dazu befindet sich in der
+    Anwendung ein Verzeichnis 'Resources', in dem sich f¸r jede Sprache ein
+    Verzeichnis mit deren Namen befindet. Sollte Ihre Sprache dort nicht zu
+    finden sein, kˆnnen Sie gerne das Directory einer anderen kopieren und
+    den Inhalt ¸bersetzen.
+
+    Beim Starten des Programmes wird ein Programm namens ResFind aufgerufen,
+    welches die konfigurierte Sprache ausliest und nachschaut, ob das
+    passende Sprach-Verzeichnis zu finden ist. Anderenfalls l‰uft das
+    Programm in englisch (UK). Durch ein paar Variablen, die am besten in der
+    !Boot-Datei des Rechners gesetzt werden, kann die Sprachsuche Ihren
+    eigenen Bed¸rfnissen angepaﬂt werden. Damit kann z.B. erreicht werden,
+    daﬂ ein Programm immer in einer bestimmten Sprache l‰uft (z.B., weil die
+    ‹bersetzung in die Landessprache nicht so gelungen ist). Weiterhin ist es
+    mˆglich, Sprachen anzugeben, nach denen gesucht wird, bevor Englisch an
+    die Reihe kommt.
+
+    Die Steuerung erfolgt durch folgende drei System-Variablen, die am besten
+    in der System-!Boot-Datei gesetzt werden sollten:
+
+    HideIBar$Language, ResFind$LanguagesPref und ResFind$Languages$Suff.
+
+    Beim Aufruf der Application sucht ResFind nach der ersten Sprache, die
+    unterst¸tzt wird entlang folgender Liste von Sprachen:
+
+      1.  Inhalt der Variablen HideIBar$Language
+      2.  Inhalt der Variablen ResFind$LanguagesPref
+      3.  Die konfigurierte Sprache
+      4.  Inhalt der Variablen ResFind$LanguagesSuff
+      5.  UK
+
+    Nehmen wir als Beispiel einen norwegischen User (weil von dort so viel
+    gute Software kommt), der seine Maschine auf 'Norway' konfiguriert hat.
+    Nun ist diese Sprache im restlichen Europa nicht sehr verbreitet,
+    weswegen ein nicht norwegisches Programm ¸blicherweise keine passende
+    ‹bersetzung anbieten wird. Unser User ist aber sehr sprachbegabt und
+    spricht noch sehr gut deutsch und franzˆsisch, wohingegen das englisch
+    nur f¸r Notf‰lle ausreicht. Er mˆchte also, soweit mˆglich, vor der
+    englischen Version lieber eine deutsche oder franzˆsische, falls
+    vorhanden.
+
+                                                                        Page 3
+    Er schreibt demnach in seine System-!Boot-Datei die Zeile:
+
+    *Set ResFind$LanguagesSuff Germany,France
+
+    Wird nun eine Anwendung, die (wie diese) ResFind verwendet aufgerufen,
+    l‰uft das Programm in der ersten angebotene Sprache aus der Liste
+    'Norway,Germany,France,UK'.
+
+    Hat dieser User z.B. eine Anwendung !Otto, die die Sprache 'Humorvoll'
+    mit entsprechend am¸santen Meldungen bietet, dann gen¸gt die Zeile
+
+    *Set Otto$Language Humor
+
+    in der !Boot-Datei, um sicherzustellen, daﬂ !Otto humorvoll l‰uft - egal,
+    was in den anderen Variablen steht.
+    ==========================================================================
+
+                                    Translate
+                                    ~~~~~~~~~
+    --------------------------------------------------------------------------
+    This is a short description on how to translate certain resources into
+    your language.
+    --------------------------------------------------------------------------
+    Messages
+    This can be read with a text editor like Edit or StrongED.
+    Lines starting with a '#' are comments and do not need to be translated.
+    All other lines consist a small piece of text (token) followed by a ':'
+    and some more text.
+    It is the text after the ':' which needs to be translated. Do not change
+    any tokens.
+    If the text contains something like '|M' or '%0' then keep it in place.
+
+    _Config
+    This file defines what the configuration window looks like and can be
+    read with a text editor like Edit or StrongED.
+    In this file you should only translate lines which start with a 'Text ='
+    or 'Help =' and only change the part after the '='.
+
+    Bugz
+    This defines how the Bugz report window looks like and can be read with a
+    text editor like Edit or StrongED.
+    Text in between '[*' and ']' are section headers. You should translate
+    all sections except 'Title', 'Mail', 'Modules' and 'Show'.
+
+    StrongHelp Manual
+    This can be read with a text editor like Edit or StrongED.
+    Shift click on the manual to open it. Inside are several text files and a
+    few pictures. All text files need to be translated.
+    Lines starting with a '#' are StrongHelp instructions or comments and
+    should not be changed. Text in between '<' and '>' or '{' and '}' should
+    also not be changed. Everything else should be translated.
+
+    TextManual
+    This can be read with a text editor like Edit or StrongED.
+    This contains the same text as the StrongHelp manual but without any
+    StrongHelp codes. Don't translate it manually if you have already
+    translated the StrongHelp manual. Instead use the application StHlp2Text.
+
+    Res
+    You need either ResEd or CCres to translate the text in this file.
+    è   ResEd is commercial and available as part of RISCOS Select and also
+        as part of the C-Compiler suite. An old version is available for free
+        here.
+
+                                                                        Page 4
+    è   CCRes is freeware and available here. Use it to convert the Res file
+        to text, translate and then convert the text file back into a Res
+        file using CCres.
+
+    You should translate labels, window titles, menu title, menu entries and
+    help strings.
+
+    Templates
+    You need a template editor like WinEd to edit the template file and
+    should translate labels and window titles.
+    ==========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        Page 5
+                                C o n t e n t s
+                                ~~~~~~~~~~~~~~~
+
+
+                               HideIBar         1
+
+                               Einf¸hrung       1
+
+                               Installation     1
+
+                               Probleme         1
+
+                               Sprachen         2
+
+                               Geschichte       2
+
+                               Danksagungen     2
+
+                               Lizenz           3
+
+                               ResFind          3
+
+                               Translate        4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    +----------------------------------------------------------------------+
+    |                                                                      |
+    | This text file was converted from a StrongHelp manual on 30 Oct 2004 |
+    |                                                                      |
+    |             using !StHlp2Txt version 1.10 (8 June 2001)              |
+    |                           by Chris Morison                           |
+    |                                                                      |
+    |               email: organizer@morison.net                           |
+    |                 web: http://www.organizer.morison.net/               |
+    |                                                                      |
+    +----------------------------------------------------------------------+
+
+                                                                        Page 6
